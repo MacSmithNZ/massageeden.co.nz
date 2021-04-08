@@ -1,0 +1,40 @@
+{
+ "author": "",
+ "bugs": {
+  "url": "https://github.com/MacSmithNZ/massageeden.co.nz/issues"
+ },
+ "comments": {
+  "dependencies": {},
+  "devDependencies": {
+   "@tailwindcss/typography": "github.com/MacSmithNZ/tailwind-starter/v2",
+   "autoprefixer": "github.com/MacSmithNZ/tailwind-starter/v2",
+   "postcss": "github.com/MacSmithNZ/tailwind-starter/v2",
+   "postcss-cli": "github.com/MacSmithNZ/tailwind-starter/v2",
+   "postcss-purgecss": "github.com/MacSmithNZ/tailwind-starter/v2",
+   "tailwindcss": "github.com/MacSmithNZ/tailwind-starter/v2"
+  }
+ },
+ "dependencies": {},
+ "description": "",
+ "devDependencies": {
+  "@tailwindcss/typography": "^0.3.0",
+  "autoprefixer": "^10.0.4",
+  "postcss": "^8.1.10",
+  "postcss-cli": "^8.0.0",
+  "postcss-purgecss": "^2.0.3",
+  "tailwindcss": "^2.0.1"
+ },
+ "homepage": "https://github.com/MacSmithNZ/massageeden.co.nz#readme",
+ "keywords": [],
+ "license": "ISC",
+ "main": "index.js",
+ "name": "massageeden.co.nz",
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/MacSmithNZ/massageeden.co.nz.git"
+ },
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "version": "1.0.0"
+}
