@@ -1,0 +1,11 @@
+<header>
+  <div class="px-5 py-4 flex items-center">
+    <a href="{{ .Site.Home.RelPermalink }}">
+      <img class="h-10" src='{{ (resources.GetMatch "logo/logo-small.svg").RelPermalink }}'>
+    </a>
+    <a href="{{ .Site.Params.bookingLink }}" class="btn btn-sm rounded ml-auto">Book an appointment</a>
+    <a class="ml-4">
+      <img class="h-8" src='{{ (resources.GetMatch "icons/bars.svg").RelPermalink }}'>
+    </a>
+  </div>
+</header>

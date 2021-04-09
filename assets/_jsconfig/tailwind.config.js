@@ -1,24 +1,37 @@
 const typography = require('@tailwindcss/typography');
+const colors = require('tailwindcss/colors');
 
 module.exports = {
-	important: true, // See https://tailwindcss.com/docs/configuration#important
-	purge: {
-		enabled: process.env.HUGO_ENVIRONMENT === 'production',
+  important: true, // See https://tailwindcss.com/docs/configuration#important
+  purge: {
+    enabled: process.env.HUGO_ENVIRONMENT === 'production',
     content: [
       './hugo_stats.json',
       './layouts/**/*.html',
-		],
-		extractors: [
+    ],
+    extractors: [
       {
         extractor: (content) => {
-					let els = JSON.parse(content).htmlElements;
-					return els.tags.concat(els.classes, els.ids);
-				},
+          let els = JSON.parse(content).htmlElements;
+          return els.tags.concat(els.classes, els.ids);
+        },
         extensions: ['json']
       },
     ],
-		mode: 'all',
-		
-	},
-	plugins: [ typography ]
+    mode: 'all',
+  },
+  theme: {
+    fontFamily: {
+      'display': ['New Spirit', 'serif'],
+      'body': ['Proxima Nova', 'sans-serif'],
+    },
+    extend: {
+      colors: {
+        primary: colors.indigo,
+        secondary: colors.yellow,
+        neutral: colors.coolGray,
+      }
+    }
+  },
+  plugins: [typography]
 };

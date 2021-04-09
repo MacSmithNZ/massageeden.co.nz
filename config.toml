@@ -8,3 +8,6 @@ writeStats = true
 [module]
   [[module.imports]]
     path = "github.com/MacSmithNZ/tailwind-starter/v2"
+
+[params]
+bookingLink = "@TODO"

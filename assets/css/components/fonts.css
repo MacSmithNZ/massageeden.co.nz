@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Proxima Nova';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('../fonts/proxima-nova.woff2') format('woff2'), url('../fonts/proxima-nova.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  font-style: italic;
+  font-weight: 400;
+  src: local(''), url('../fonts/proxima-nova-italic.woff2') format('woff2'), url('../fonts/proxima-nova-italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''), url('../fonts/proxima-nova-700.woff2') format('woff2'), url('../fonts/proxima-nova-700.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'New Spirit';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('../fonts/new-spirit.woff2') format('woff2'), url('../fonts/new-spirit.woff') format('woff');
+}

@@ -1,3 +1,14 @@
 {{ define "main" }}
-hello
+<section>
+  <div>
+    <div>
+      <img src='{{ (resources.GetMatch "images/263A0195.JPG").RelPermalink }}'>
+    </div>
+    <div class="bg-secondary-50 py-10 px-5">
+      <h1>Welcome to Massage Eden</h1>
+      <p>At Rotorua's favourite day spa, you'll find a positive indulgence you can afford to make a habit of.</p>
+      <a class="btn" href="{{ .Site.Params.bookingLink }}">Book an appointment</a>
+    </div>
+  </div>
+</section>
 {{ end }}
