@@ -11,4 +11,110 @@
     </div>
   </div>
 </section>
+
+<section>
+  <div class="px-5 py-10">
+    <h2 class="mt-0">Services</h2>
+    <ul>
+      <li class="list-none bg-neutral-50 mb-10">
+        <img src='{{ ((resources.GetMatch "images/263A0195.JPG").Fill "560x370 center q100").RelPermalink }}'>
+        <div class="px-5 py-10">
+          <h3 class="mt-0">Keep your body working</h3>
+          <p>Massage therapy to help keep your body working better, so you can live better.</p>
+          <a class="btn" href="/massage">See massage</a>
+        </div>
+      </li>
+      <li class="list-none bg-neutral-50 mb-10">
+        <img src='{{ ((resources.GetMatch "images/263A0195.JPG").Fill "560x370 center q100").RelPermalink }}'>
+        <div class="px-5 py-10">
+          <h3 class="mt-0">Be confident in your own skin.</h3>
+          <p>Skin care that'll leave you glowing inside and out.</p>
+          <a class="btn" href="/massage">See skin care</a>
+        </div>
+      </li>
+      <li class="list-none bg-neutral-50 mb-10">
+        <img src='{{ ((resources.GetMatch "images/263A0195.JPG").Fill "560x370 center q100").RelPermalink }}'>
+        <div class="px-5 py-10">
+          <h3 class="mt-0">Everyone deserves smooth skin.</h3>
+          <p>A waxing experience that leaves you feeling smooth and safe.</p>
+          <a class="btn" href="/massage">See waxing</a>
+        </div>
+      </li>
+    </ul>
+  </div>
+</section>
+
+<section class="bg-secondary-50">
+  <div class="py-10 px-5 text-center">
+    <h2 class="font-display font-normal">A healthy body needs full body care.</h2>
+    <p>Indulge your body with our popular spa packages.</p>
+    <a class="btn" href="/spa-packages">See spa packages</a>
+  </div>
+</section>
+
+<section>
+  <div class="px-5 my-10">
+    <h2>Popular Pricing</h2>
+    <table class="text-left w-full mb-10">
+      <thead>
+        <tr>
+          <th>Service</th>
+          <th>Minutes</th>
+          <th>Price</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Body Massage</td>
+          <td>90min</td>
+          <td>$159</td>
+        </tr>
+        <tr>
+          <td>Couples Massage</td>
+          <td>60min</td>
+          <td>$209</td>
+        </tr>
+        <tr>
+          <td>Pampering Package</td>
+          <td>120min</td>
+          <td>$209</td>
+        </tr>
+        <tr>
+          <td>Infrared Sauna</td>
+          <td>30min</td>
+          <td>$35</td>
+        </tr>
+      </tbody>
+    </table>
+    <a class="btn btn-alt" href="/pricing">See all pricing</a>
+  </div>
+</section>
+
+<section class="bg-primary-600 text-white text-center">
+  <div class="py-10 px-5">
+    <h2 class="font-normal font-display">Make the best of every gift opportunity.</h2>
+    <p>A Massage Eden gift voucher says something special. Give them more ways to make the most of what they love to do.</p>
+    <a class="btn btn-inverse" href="/gift-vouchers">Purchase gift voucher</a>
+  </div>
+</section>
+
+<section>
+  <div class="py-10 px-5">
+    <img src='{{ ((resources.GetMatch "images/263A0195.JPG").Fill "560x370 center q100").RelPermalink }}'>
+    <div class="mt-10">
+      <h2>A hard working, dedicated group of therapists.</h2>
+      <p>Massage Eden is one of Rotorua's most highly rated and popular massage and day spa venues.</p>
+      <a class="btn btn-alt" href="/about-us">About us</a>
+    </div>
+  </div>
+</section>
+
+<section class="bg-secondary-50">
+  <div class="py-10 px-5 text-center">
+    <h2 class="font-display font-normal">Make massage a part of your routine.</h2>
+    <p>At Massage Eden we make your comfort our top priority. Start today!</p>
+    <a class="btn" href="{{ .Site.Params.bookingLink }}">Book an appointment</a>
+  </div>
+</section>
+
 {{ end }}
