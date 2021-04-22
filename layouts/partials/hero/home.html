@@ -1,0 +1,15 @@
+<section class="bg-secondary-50">
+  {{ with .Params.hero }}
+  <div class="md:grid md:grid-cols-2 lg:h-screen lg:items-center">
+    <div class="md:col-start-2 md:h-full">
+      <img class="md:h-full md:object-cover" src='{{ (resources.GetMatch (print "images/" .img )).RelPermalink }}'
+        alt="{{ .alt }}">
+    </div>
+    <div class="py-12 px-8 md:col-start-1 md:row-start-1 lg:max-w-xl lg:mx-auto">
+      <h1 class="text-3xl font-display mb-4 lg:mb-8 lg:text-5xl">{{ .h1 }}</h1>
+      <p class="mb-4 lg:mb-8 lg:text-2xl">{{ .p }}</p>
+      <a class="btn" href="{{ .a_href }}">{{ .a }}</a>
+    </div>
+  </div>
+  {{ end }}
+</section>
