@@ -1,0 +1,29 @@
+{
+  "popular": [
+    {
+      "service": "Body Massage",
+      "minutes": 60,
+      "price": 109
+    },
+    {
+      "service": "Body Massage",
+      "minutes": 90,
+      "price": 159
+    },
+    {
+      "service": "Couples Massage",
+      "minutes": 60,
+      "price": 209
+    },
+    {
+      "service": "Pampering Package",
+      "minutes": 120,
+      "price": 209
+    },
+    {
+      "service": "Infrared Sauna",
+      "minutes": 30,
+      "price": 35
+    }
+  ]
+}

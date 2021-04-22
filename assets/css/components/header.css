@@ -1,0 +1,19 @@
+#site-nav.is-active {
+  background-color: theme('colors.white');
+}
+
+#site-nav.is-active .logo-white {
+  display: none;
+}
+
+#site-nav .logo-main {
+  display: none;
+}
+
+#site-nav.is-active .logo-main {
+  display: inline-block;
+}
+
+#site-nav.is-active .bars {
+  color: theme('colors.neutral.900');
+}

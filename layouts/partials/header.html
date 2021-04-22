@@ -1,11 +1,23 @@
-<header class="sticky top-0 z-50 bg-white">
+<header id="site-nav" class="fixed top-0 z-50 w-full lg:bg-white text-white">
   <div class="px-5 py-4 flex items-center">
     <a href="{{ .Site.Home.RelPermalink }}">
-      <img class="h-10" src='{{ (resources.GetMatch "logo/logo-small.svg").RelPermalink }}'>
+      <img class="logo-white h-10 md:hidden" src='{{ (resources.GetMatch "logo/logo-white.svg").RelPermalink }}'>
+      <img class="logo-main h-10 md:inline-block" src='{{ (resources.GetMatch "logo/logo.svg").RelPermalink }}'>
     </a>
-    <a href="{{ .Site.Params.bookingLink }}" class="btn btn-sm rounded ml-auto">Book an appointment</a>
-    <a class="ml-4">
-      <img class="h-8" src='{{ (resources.GetMatch "icons/bars.svg").RelPermalink }}'>
+    <a href="{{ .Site.Params.bookingLink }}" class="btn btn-sm ml-auto">Book online</a>
+    <a class="ml-4 bars lg:hidden">
+      {{ partial "icons/bars.html" (dict "class" "fill-current h-8") }}
     </a>
   </div>
 </header>
+
+<script>
+  document.addEventListener("scroll", () => {
+    if (window.pageYOffset > 0) {
+      document.querySelector('#site-nav').classList.add('is-active');
+    } else {
+      document.querySelector('#site-nav').classList.remove('is-active');
+    }
+  })
+
+</script>

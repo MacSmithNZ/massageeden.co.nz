@@ -6,6 +6,7 @@
   font-size: theme('fontSize.sm');
   display: inline-block;
   line-height: theme('lineHeight.4');
+  border-radius: theme('borderRadius.lg');
 }
 
 .btn-alt {
@@ -18,6 +19,26 @@
   color: theme('colors.primary.600');
 }
 
+.btn-dark {
+  background-color: theme('colors.neutral.900');
+  color: theme('colors.white');
+}
+
+.btn-dark-outline {
+  border: 1px currentColor solid;
+  color: theme('colors.neutral.900');
+  background-color: white;
+}
+
 .btn-sm {
   padding: theme('spacing.3') theme('spacing.4');
+}
+
+@screen md {
+  .btn {
+    font-size: theme('fontSize.base');
+  }
+  .btn-sm {
+    font-size: theme('fontSize.sm')
+  }
 }
