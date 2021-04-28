@@ -4,7 +4,7 @@
       <img class="logo-white h-10 md:hidden" src='{{ (resources.GetMatch "logo/logo-white.svg").RelPermalink }}'>
       <img class="logo-main h-10 md:inline-block" src='{{ (resources.GetMatch "logo/logo.svg").RelPermalink }}'>
     </a>
-    <a href="{{ .Site.Params.bookingLink }}" class="btn btn-sm ml-auto">Book online</a>
+    <a href="{{ .Site.Params.bookingLink }}" class="btn btn-sm btn-primary ml-auto">Book online</a>
     <a class="ml-4 bars lg:hidden">
       {{ partial "icons/bars.html" (dict "class" "fill-current h-8") }}
     </a>

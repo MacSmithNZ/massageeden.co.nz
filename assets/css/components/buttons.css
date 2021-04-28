@@ -1,12 +1,15 @@
 .btn {
-  background-color: theme('colors.primary.600');
   padding: theme('spacing.4') theme('spacing.8');
-  color: theme('colors.white');
   font-weight: theme('fontWeight.bold');
   font-size: theme('fontSize.sm');
   display: inline-block;
   line-height: theme('lineHeight.4');
   border-radius: theme('borderRadius.lg');
+}
+
+.btn-primary {
+  color: theme('colors.white');
+  background-color: theme('colors.primary.600');
 }
 
 .btn-alt {
