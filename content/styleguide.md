@@ -4,7 +4,7 @@ date: 2021-04-28T11:48:28+12:00
 draft: true
 layout: styleguide
 hero_primary:
-  img: 263A0199.JPG
+  img: IMG_7659.JPG
   alt: This is the img alt text.
   h1: This is the primary hero for the homepage.
   p: It is only used once on the website. Secondary and other pages use a different hero style.
