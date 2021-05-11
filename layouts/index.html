@@ -1,16 +1,47 @@
-<!DOCTYPE html>
-<html lang="en">
+{{ define "main" }}
 
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Massage Eden</title>
-  </head>
+{{ partial "hero/hero_primary.html" .Params.hero }}
 
-  <body>
-    <h1>Massage Eden</h1>
-    <p>Website in process. Check back soon!</p>
-  </body>
+{{ partial "rows/row_primary.html" .Params.row }}
 
-</html>
+{{ partial "banners/banner_primary" .Params.banner_1 }}
+
+{{ partial "cards/card_triple.html" .Params.cards }}
+
+{{ partial "banners/banner_primary" .Params.banner_2 }}
+
+<section class="my-16 px-8 lg:my-40">
+  <div class="max-w-screen-xl mx-auto lg:grid lg:grid-cols-2 lg:items-center lg:gap-16">
+    <div class="max-w-lg mx-auto lg:w-full mb-8">
+      <h2>Popular Pricing</h2>
+      <table class="text-left w-full mb-8">
+        <thead>
+          <tr>
+            <th>Service</th>
+            <th>Minutes</th>
+            <th>Price</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{ range .Site.Data.pricelist.popular }}
+          <tr>
+            <td class="pt-4">{{ .service }}</td>
+            <td class="pt-4">{{ .minutes }}mins</td>
+            <td class="pt-4">${{ .price }}</td>
+          </tr>
+          {{ end }}
+        </tbody>
+      </table>
+      <a class="btn btn-alt" href="/pricing">See all pricing</a>
+    </div>
+    <div>
+      <img src='{{ ((resources.GetMatch "images/263A0204.JPG").Fill "600x750 center q100").RelPermalink }}'>
+    </div>
+  </div>
+</section>
+
+{{ partial "banners/banner_secondary" .Params.banner_3 }}
+
+{{ partial "rows/row_secondary.html" .Params.row_2 }}
+
+{{ end }}

@@ -1,0 +1,3 @@
+{{ $img := (.Page.Resources.GetMatch (.Get "src")).Fill (.Get "fill") }}
+
+<img src="{{ $img.RelPermalink }}" alt='{{ .Get "alt"}}' class="first:mt-0 my-12">

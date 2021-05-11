@@ -1,9 +1,38 @@
 {{ define "main" }}
 
 <!-- This is where we set up all the elements and styles we use throughout the website.  -->
+<div class="my-16">
 
-<!-- Hero Sections -->
-{{ partial "hero/hero_primary.html" .Params.hero_primary }}
-{{ partial "hero/hero_secondary.html" .Params.hero_secondary }}
+  <!-- Typography -->
+  <div class="px-4">
+    <h1>This is Header One</h1>
+    <h2>This is Header Two</h2>
+    <h3>This is Header Three</h3>
+    <h4>This is Header Four</h4>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+  </div>
 
+  <!-- Hero Sections -->
+  {{ partial "hero/hero_primary.html" .Params.hero_primary }}
+  <hr class="my-12">
+
+  {{ partial "hero/hero_secondary.html" .Params.hero_secondary }}
+  <hr class="my-12">
+
+  {{ partial "hero/hero_third.html" .Params.hero_third }}
+  <hr class="my-12">
+
+  <!--- Row Sections -->
+  {{ partial "rows/row_primary.html" .Params.row_primary }}
+  <hr class="my-12">
+
+  <!-- Card Sections -->
+  {{ partial "cards/card_triple.html" .Params.card_triple }}
+  <hr class="my-12">
+
+  <!-- Banner Sections -->
+  {{partial "banners/banner_primary.html" .Params.banner_primary }}
+  <hr class="my-12">
+
+</div>
 {{ end }}
