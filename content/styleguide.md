@@ -14,10 +14,48 @@ hero_secondary:
   img: 263A0199.JPG
   alt: This is the img alt text.
   span: Hero Secondary
-  h1: This is the secondary hero for list pages.
+  h1: This is the secondary hero available for list pages.
   p: It is to be used for list pages on the website. Lorem ipsum dolor sit amet, consectetur adipiscing elit,
   a: This is a button
   a_href: /schedule-an-appointment
+hero_third:
+  span: Hero Third
+  h1: This is the third hero available for single pages.
+  p: It is to be used for single pages on the website. Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+  a: This is a button
+  a_href: /schedule-an-appointment
+row_primary:
+  img: 263A0185.JPG
+  alt: Alt text for this image.
+  h2: Massage Eden Lifestyle & Wellness Spa — Now Open!
+  p: Massage Eden is the newest addition to Rotorua's thriving Day Spa & Wellness industry. Located in the Pullman Hotel, we offer a 5-star massage experience at an affordable starting price. Start your wellness journey with Massage Eden today!
+  a_1: Book online
+  a_1_href: /schedule-an-appointment
+  a_2: Show on maps
+  a_2_href: TODO
+card_triple:
+  h2: Relax, unwind and invest some well deserved time in yourself at Massage Eden. 
+  items:
+  - img: 263A0199.JPG
+    h3: Keep your body working
+    p: Massage therapy to help keep your body working better, so you can live better.
+    a: See massage
+    a_href: /massage
+  - img: 263A0219.JPG
+    h3: Be confident in your own skin.
+    p: Skin care that'll leave you glowing inside and out.
+    a: See skin care
+    a_href: /skin-care
+  - img: waxing-image.jpg
+    h3: Everyone deserves smooth skin.
+    p: A waxing experience that leaves you feeling smooth and safe.
+    a: See waxing
+    a_href: /waxing
+banner_primary:
+  h2: A healthy body needs full body care.
+  p: Indulge your body with our popular spa packages.
+  a: See spa packages
+  a_href: /spa-packages
 ---
 
 # Markdown Cheat Sheet

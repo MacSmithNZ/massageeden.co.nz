@@ -1,13 +1,13 @@
+{{ $img := ((resources.GetMatch (print "images/" .img )).Fill "1200x800 center webp q90").RelPermalink }}
 <section class="bg-secondary-50">
-  <div class="lg:grid lg:grid-cols-2 lg:h-screen lg:items-center">
+  <div class="lg:grid lg:grid-cols-2 lg:items-center">
     <div class="lg:col-start-2 lg:h-full">
-      {{ $img := (resources.GetMatch (print "images/" .img )).Fill "1200x800 center" }}
-      <img class="lg:h-full lg:object-cover" src='{{ $img.RelPermalink }}' alt="{{ .alt }}">
+      <img class="lg:h-full lg:object-cover" src='{{ $img }}' alt="{{ .alt }}">
     </div>
-    <div class="py-12 px-8 lg:px-12 lg:col-start-1 lg:row-start-1 lg:max-w-2xl lg:mx-auto">
-      <h1 class="text-3xl font-display mb-4 sm:text-4xl lg:mb-8 lg:text-5xl xl:text-6xl">{{ .h1 }}</h1>
-      <p class="mb-4 sm:text-lg lg:mb-8 lg:text-2xl">{{ .p }}</p>
-      <a href="{{ .a_href }}" class="btn btn-primary lg:text-lg">{{ .a }}</a>
+    <div class="py-12 px-8 max-w-xl mx-auto lg:py-40 lg:col-start-1 lg:row-start-1">
+      <h1>{{ .h1 }}</h1>
+      <p>{{ .p }}</p>
+      <a href="{{ .a_href }}" class="btn btn-primary">{{ .a }}</a>
     </div>
   </div>
 </section>

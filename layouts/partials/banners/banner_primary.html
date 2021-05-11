@@ -1,0 +1,11 @@
+<section
+  class="{{ if .bg_color }} bg-{{ .bg_color }} py-16 lg:py-32{{ end }} px-5 {{ if ne .no_margin true }} my-16 lg:my-40 {{ end }}">
+  <div class="text-center max-w-2xl mx-auto">
+    <h2>{{ .h2 }}</h2>
+    {{ if .p }}
+    <p>{{ .p }}</p>{{ end }}
+    {{ if and .a .a_href }}
+    <a class="{{ if eq .a_is_button true }}btn bg-primary-600 text-white {{ else }} font-bold text-primary-600 {{ end }}" href="{{ .a_href }}">{{ .a }}</a>
+    {{ end }}
+  </div>
+</section>

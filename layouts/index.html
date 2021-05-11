@@ -2,42 +2,19 @@
 
 {{ partial "hero/hero_primary.html" .Params.hero }}
 
-{{ partial "row/row.html" . }}
+{{ partial "rows/row_primary.html" .Params.row }}
 
-<section class="my-16 px-8 md:text-lg lg:my-48">
-  <div class="max-w-screen-xl mx-auto">
-    {{ with .Params.cards }}
-    <h2 class="mb-16 text-2xl md:text-3xl lg:text-5xl font-display text-center max-w-6xl mx-auto">{{ .h2 }}
-    </h2>
-    <ul class="space-y-12 lg:grid lg:grid-cols-2 lg:space-y-0 lg:gap-y-10 xl:grid-cols-3">
-      {{ range .items }}
-      <li class="list-none bg-neutral-50 max-w-sm mx-auto">
-        <img class="" src='{{ ((resources.GetMatch (print "images/" .img)).Fill "450x450 q100").RelPermalink }}'>
-        <div class="p-8">
-          <h3 class="mb-4 font-bold text-xl lg:text-3xl">{{ .h3 }}</h3>
-          <p class="mb-4 lg:text-xl">{{ .p }}</p>
-          <a class="btn lg:text-lg" href="{{ .a_href }}">{{ .a }}</a>
-        </div>
-      </li>
-      {{ end }}
-    </ul>
-    {{ end }}
-  </div>
-</section>
+{{ partial "banners/banner_primary" .Params.banner_1 }}
 
-<section class="bg-secondary-50 my-16 py-16 px-5 md:py-32 lg:my-48">
-  <div class="text-center max-w-2xl mx-auto">
-    <h2 class="font-display text-2xl mb-4 md:text-3xl lg:text-5xl lg:mb-8">A healthy body needs full body care.</h2>
-    <p class="mb-4 lg:text-xl lg:mb-8">Indulge your body with our popular spa packages.</p>
-    <a class="btn lg:text-lg" href="/spa-packages">See spa packages</a>
-  </div>
-</section>
+{{ partial "cards/card_triple.html" .Params.cards }}
 
-<section class="my-16 px-8 lg:my-48">
+{{ partial "banners/banner_primary" .Params.banner_2 }}
+
+<section class="my-16 px-8 lg:my-40">
   <div class="max-w-screen-xl mx-auto lg:grid lg:grid-cols-2 lg:items-center lg:gap-16">
-    <div class="max-w-lg mx-auto lg:w-full">
-      <h2 class="font-bold text-2xl mb-8 lg:text-5xl lg:mb-12">Popular Pricing</h2>
-      <table class="text-left w-full mb-8 lg:text-xl lg:mb-12">
+    <div class="max-w-lg mx-auto lg:w-full mb-8">
+      <h2>Popular Pricing</h2>
+      <table class="text-left w-full mb-8">
         <thead>
           <tr>
             <th>Service</th>
@@ -49,7 +26,7 @@
           {{ range .Site.Data.pricelist.popular }}
           <tr>
             <td class="pt-4">{{ .service }}</td>
-            <td class="pt-4">{{ .minutes }}min</td>
+            <td class="pt-4">{{ .minutes }}mins</td>
             <td class="pt-4">${{ .price }}</td>
           </tr>
           {{ end }}
@@ -63,38 +40,8 @@
   </div>
 </section>
 
-<section class="bg-primary-600 text-white text-center my-16 py-16 px-8 md:py-32 lg:my-48">
-  <div class="max-w-2xl mx-auto">
-    {{ partial "icons/gift.html" (dict "class" "fill-current h-16 mx-auto lg:h-28") }}
-    <h2 class="font-normal font-display my-4 text-2xl md:text-3xl lg:text-5xl lg:my-8">Make the best of every gift
-      opportunity.</h2>
-    <p class="mb-4 lg:text-xl lg:mb-8">A Massage Eden gift voucher says something special. Give them more ways to make
-      the most of what
-      they love to do.
-    </p>
-    <a class="btn btn-inverse lg:text-lg" href="/gift-vouchers">Purchase gift voucher</a>
-  </div>
-</section>
+{{ partial "banners/banner_secondary" .Params.banner_3 }}
 
-<section class="my-16 px-8 lg:my-48">
-  <div class="max-w-lg mx-auto lg:max-w-screen-xl lg:grid lg:grid-cols-2 lg:gap-16 lg:items-center">
-    <div>
-      <img src='{{ ((resources.GetMatch "images/263A0207.JPG").Fill "900x600 center q100").RelPermalink }}'>
-    </div>
-    <div class="mt-8">
-      <h2 class="text-2xl font-bold mb-4 lg:text-5xl lg:mb-8">A hard working, dedicated group of therapists.</h2>
-      <p class="mb-4 lg:text-xl lg:mb-8">Massage Eden is one of Rotorua's most highly rated and popular massage and day spa venues.</p>
-      <a class="btn btn-alt lg:text-lg" href="/about-us">About us</a>
-    </div>
-  </div>
-</section>
-
-<section class="bg-secondary-50 py-16 px-8 lg:py-32">
-  <div class="text-center max-w-2xl mx-auto">
-    <h2 class="font-display text-2xl mb-4 lg:text-5xl lg:mb-8">Make massage a part of your routine.</h2>
-    <p class="mb-4 lg:text-xl lg:mb-8">At Massage Eden we make your comfort our top priority. Start today!</p>
-    <a class="btn lg:text-lg" href="{{ .Site.Params.bookingLink }}">Book an appointment</a>
-  </div>
-</section>
+{{ partial "rows/row_secondary.html" .Params.row_2 }}
 
 {{ end }}

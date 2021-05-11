@@ -10,4 +10,13 @@ writeStats = true
     path = "github.com/MacSmithNZ/tailwind-starter/v2"
 
 [params]
-bookingLink = "@TODO"
+bookingLink = "/schedule-an-appointment"
+
+[params.call_to_action]
+no_margin = true
+bg_color = "secondary-50"
+h2 = "Make massage a part of your routine."
+p = "At Massage Eden we make your comfort our top priority. Start today!"
+a = "Book an appointment"
+a_href = "/schedule-an-appointment"
+a_is_button = true

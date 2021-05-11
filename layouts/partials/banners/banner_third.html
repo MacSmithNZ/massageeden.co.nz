@@ -1,0 +1,6 @@
+<section class="{{ if .bg_color }} bg-{{ .bg_color }} py-16 lg:py-32{{ end }} px-5 {{ if ne .no_margin true }} my-16 lg:my-40 {{ end }}">
+  <div class="text-center">
+    <h2 class="h2-alt">{{ .h2 }}</h2>
+    <a href="{{ .a_href }}" class="text-primary-600 font-bold">{{ .a }}</a>
+  </div>
+</section>

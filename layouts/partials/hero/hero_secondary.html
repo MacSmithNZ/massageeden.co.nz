@@ -1,12 +1,12 @@
-{{ $img := (resources.GetMatch (print "images/" .img )).RelPermalink }}
+{{ $img := ((resources.GetMatch (print "images/" .img )).Fill "1920x1080 webp q90").RelPermalink }}
 <section class="bg-cover bg-center" style="background-image: url('{{ $img }}')">
-  <div class="bg-neutral-900 bg-opacity-60 pt-16">
+  <div class="bg-neutral-900 bg-opacity-60 pt-12 lg:pt-0">
     <div class="text-center text-white">
-      <div class="py-12 px-8 md:col-start-1 md:row-start-1 lg:max-w-xl lg:mx-auto">
-        <span class="text-secondary-400 uppercase tracking-widest text-sm mb-4">{{ .span }}</span>
-        <h1 class="text-3xl font-display mb-4 lg:mb-8 lg:text-5xl">{{ .h1 }}</h1>
-        <p class="mb-4 lg:mb-8 lg:text-2xl">{{ .p }}</p>
-        {{ partial "buttons/button_secondary" (dict "text" .a "href" .a_href) }}
+      <div class="py-12 px-8 sm:max-w-md sm:mx-auto md:col-start-1 md:row-start-1 lg:py-40 lg:max-w-xl">
+        <span class="text-secondary-400 uppercase tracking-widest text-sm mb-4 lg:text-base">{{ .span }}</span>
+        <h1>{{ .h1 }}</h1>
+        <p>{{ .p }}</p>
+        <a class="btn btn-alt" href="{{ .a_href }}">{{ .a }}</a>
       </div>
     </div>
   </div>

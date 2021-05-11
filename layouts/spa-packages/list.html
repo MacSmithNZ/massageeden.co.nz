@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+{{ partial "hero/hero_third.html" .Params.hero }}
+
+{{ partial "banners/banner_primary" .Params.banner }}
+
+<section class="my-12 px-5 max-w-screen-2xl mx-auto">
+  <ul class="space-y-12 lg:grid lg:grid-cols-2 lg:space-y-0 lg:gap-6 2xl:grid-cols-3 2xl:gap-8">
+    {{ range .Params.packages }}
+    <li class="max-w-sm mx-auto">
+      <div class="bg-neutral-50 px-5 py-12">
+        <h3>{{ .h3 }}</h3>
+        <p>{{ .p }}</p>
+        <p class="font-bold">{{ .p_2 }}</p>
+        <p class="font-bold">Includes:</p>
+        <ul>
+          {{ range .ul }}
+          <li class="list-disc ml-4">
+            <p>{{ .li }}</p>
+          </li>
+          {{ end }}
+        </ul>
+        <div>
+          <a class="btn bg-primary-600 text-white w-full" href="/schedule-an-appointment">Make an appointment</a>
+          <a class="btn btn-alt mt-4 w-full" href="/gift-vouchers">Purchase gift voucher</a>
+        </div>
+      </div>
+    </li>
+    {{ end }}
+  </ul>
+</section>
+
+{{ end }}

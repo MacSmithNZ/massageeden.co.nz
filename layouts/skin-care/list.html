@@ -1,15 +1,15 @@
 {{ define "main" }}
 
+{{ if .Params.hero }}
+
 {{ partial "hero/hero_secondary.html" .Params.hero }}
 
-{{ partial "banners/banner_third.html" .Params.banner }}
+{{ partial "banners/banner_primary.html" .Params.banner }}
 
 {{ partial "rows/row_secondary" .Params.row }}
 
-{{ partial "banners/banner_primary" .Params.banner_2 }}
-
 {{ partial "rows/row_secondary" .Params.row_2 }}
 
-{{ partial "banners/banner_secondary" .Params.banner_3 }}
+{{ end }}
 
 {{ end }}

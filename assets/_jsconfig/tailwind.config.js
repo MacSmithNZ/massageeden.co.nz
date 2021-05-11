@@ -33,5 +33,10 @@ module.exports = {
       }
     }
   },
+  varients: {
+    extend: {
+      margin: ['first']
+    }
+  },
   plugins: [typography]
 };
