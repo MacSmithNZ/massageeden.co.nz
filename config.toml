@@ -10,6 +10,7 @@ writeStats = true
     path = "github.com/MacSmithNZ/tailwind-starter/v2"
 
 [params]
+fresha_link = "https://www.fresha.com/a/massage-eden-bay-of-plenty-1135-arawa-street-j0iixxyj/booking"
 bookingLink = "/schedule-an-appointment"
 
 [params.call_to_action]
