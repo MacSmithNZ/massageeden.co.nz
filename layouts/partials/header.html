@@ -8,11 +8,11 @@
       <img class="{{ if ne .Params.fixed_header true }}inline-block{{ end }} logo-main h-10 md:inline-block"
         src='{{ (resources.GetMatch "logo/logo.svg").RelPermalink }}'>
     </a>
-    <div class="text-neutral-900 hidden ml-auto lg:block">
+    <div class="hidden ml-auto lg:block">
       <ul class="flex space-x-4 text-sm uppercase tracking-wide">
         {{ range .Site.Menus.main }}
         <li class="leading-none">
-          <a href="{{ .URL }}">{{ .Name }}</a>
+          <a class="text-neutral-900" href="{{ .URL }}">{{ .Name }}</a>
         </li>
         {{ end }}
       </ul>

@@ -1,6 +1,10 @@
 ---
 title: "About"
 date: 2021-05-13T09:01:18+12:00
+menu:
+  main:
+    weight: 5
+    name: About
 hero: 
   img: 263A0207.JPG
   h1:  The newest addition to Rotorua's Day Spa & Wellness industry.
