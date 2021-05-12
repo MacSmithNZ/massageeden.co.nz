@@ -3,10 +3,10 @@
 <footer class="bg-primary-600 text-white py-12 px-5">
   <div class="max-w-screen-2xl mx-auto lg:grid lg:grid-cols-4 lg:gap-12">
     <div class="pb-4 border-b border-primary-400 lg:border-b-0">
-      <img class="h-10" src='{{ (resources.GetMatch "logo/logo-white.svg").RelPermalink }}'>
+      <img alt="Massage Eden logo in white." class="h-10" src='{{ (resources.GetMatch "logo/logo-white.svg").RelPermalink }}'>
     </div>
     <div class="py-4 border-b border-primary-400 lg:border-b-0">
-      <h4>Sitelinks</h4>
+      <p class="font-bold">Sitelinks</p>
       <nav>
         <ul>
           {{ range .Site.Menus.main }}

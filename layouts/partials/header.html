@@ -1,11 +1,11 @@
 <header id="site-nav"
   class="{{ if eq .Params.fixed_header true }} fixed text-white {{ else }}sticky{{ end }} lg:sticky top-0 z-50 w-full lg:bg-white">
   <div class="px-5 py-4 flex items-center">
-    <a href="{{ .Site.Home.RelPermalink }}">
+    <a href="{{ .Site.Home.RelPermalink }}" title="Home">
       {{ if eq .Params.fixed_header true }}
-      <img class="logo-white h-10 md:hidden" src='{{ (resources.GetMatch "logo/logo-white.svg").RelPermalink }}'>
+      <img alt="Massage Eden logo in white" class="logo-white h-10 md:hidden" src='{{ (resources.GetMatch "logo/logo-white.svg").RelPermalink }}'>
       {{ end }}
-      <img class="{{ if ne .Params.fixed_header true }}inline-block{{ end }} logo-main h-10 md:inline-block"
+      <img alt="Massage Eden logo" class="{{ if ne .Params.fixed_header true }}inline-block{{ end }} logo-main h-10 md:inline-block"
         src='{{ (resources.GetMatch "logo/logo.svg").RelPermalink }}'>
     </a>
     <div class="hidden ml-auto lg:block">

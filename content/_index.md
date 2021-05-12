@@ -24,16 +24,19 @@ banner_1:
 cards:
   items:
   - img: 263A0199.JPG
+    alt:  Massage.
     h3: Keep your body working
     p: Massage therapy to help keep your body working better, so you can live better.
     a: See massage
     a_href: /massage
   - img: 263A0219.JPG
+    alt: Skin care.
     h3: Be confident in your own skin.
     p: Skin care that'll leave you glowing inside and out.
     a: See skin care
     a_href: /skin-care
   - img: waxing-image.jpg
+    alt: Waxing.
     h3: Everyone deserves smooth skin.
     p: A waxing experience that leaves you feeling smooth and safe.
     a: See waxing
