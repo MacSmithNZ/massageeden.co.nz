@@ -17,3 +17,7 @@
 #site-nav.is-active .bars {
   color: theme('colors.neutral.900');
 }
+
+#site-nav .bars {
+  color: theme('colors.white');
+}
