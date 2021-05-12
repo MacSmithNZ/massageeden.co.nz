@@ -61,6 +61,10 @@ small, .text_small {
   font-size: 0.889rem;
 }
 
+a:not(.btn) {
+  color: theme('colors.primary.600');
+}
+
 @screen lg {
   html {
     font-size: 112.5%;

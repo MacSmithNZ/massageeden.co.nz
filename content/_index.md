@@ -59,7 +59,7 @@ row_2:
   h2: A hard working, dedicated group of therapists.
   p: Massage Eden is one of Rotorua's most highly rated and popular massage and day spa venues.
   a: About us
-  a_href: /about-us
+  a_href: /about
   a_is_button: true
 ---
 

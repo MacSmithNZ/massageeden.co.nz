@@ -4,7 +4,7 @@ description: Enjoy the best of Massage Eden condensed into handy 2 hours, and do
 date: 2021-05-12T09:18:14+12:00
 menu:
   main:
-    weight: 3
+    weight: 4
     name: Spa Packages
 hero:
   h1: Enjoy the best that Massage Eden has to offer.
