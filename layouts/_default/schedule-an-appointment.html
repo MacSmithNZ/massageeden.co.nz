@@ -1,11 +1,9 @@
 {{ define "main" }}
-<section class="my-12 px-5 max-w-screen-2xl mx-auto lg:my-40">
-  <div id="bookapp-reservation-widget"></div>
-  <script type="text/javascript">
-    !function (e, t, n) { var u = n.queue || []; e.BookAppWidgetReady = n = function (e) { n.queue.push(e) }, n.queue = u; var o = "script", a = t.createElement(o), i = t.getElementsByTagName(o)[0]; a.src = "https://cdn.book.app/embed/v1.js", a.type = "text/javascript", a.async = !0, a.addEventListener("load", function () { for (; n.queue.length;)n.queue.shift()() }, !1), i.parentNode.insertBefore(a, i) }(window, document, window.BookAppWidgetReady || function () { });
-    BookAppWidgetReady(function () {
-      BookApp.widget('#bookapp-reservation-widget', 'massageeden');
-    });
-  </script>
+<section class="my-12 px-5 max-w-screen-sm mx-auto lg:my-40">
+  <div>
+    <h1>Schedule an appointment with Massage Eden.</h1>
+    <p>Online booking has never been so easy. Click below to go to our booking page.</p>
+    <a class="btn bg-primary-600 text-white" href="{{ .Site.Params.fresha_link }}" target="_blank">Book now</a>
+  </div>
 </section>
 {{ end }}
