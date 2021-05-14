@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+{{ partial "hero/hero_third" .Params.hero }}
+
+<section class="my-12 px-5 lg:my-40">
+  <ul class="space-y-12 max-w-screen-2xl mx-auto lg:grid lg:grid-cols-2 lg:space-y-0 lg:gap-12">
+    {{ range $i, $e := .Pages }}
+    <li class="max-w-md mx-auto">
+      <h3>{{ .Title }}</h3>
+      <p>{{ .Description }}</p>
+      <a href="{{ .RelPermalink }}">Learn more</a>
+    </li>
+    {{ end }}
+  </ul>
+</section>
+
+{{ end }}
