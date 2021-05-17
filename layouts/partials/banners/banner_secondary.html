@@ -4,7 +4,7 @@
     <h2>{{ .h2 }}</h2>
     {{ if .p }}<p>{{ .p }}</p>{{ end }}
     {{ if and .a .a_href }}
-    <a class="{{ if eq .a_is_button true }}btn bg-white text-primary-600 {{ else }} font-bold {{ end }}" href="{{ .a_href }}">{{ .a }}</a>
+    <a class="{{ if eq .a_is_button true }}btn bg-white text-primary-600 {{ else }} text-white font-bold {{ end }}" href="{{ .a_href }}">{{ .a }}</a>
     {{ end }}
   </div>
 </section>

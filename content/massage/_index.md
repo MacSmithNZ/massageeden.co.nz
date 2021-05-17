@@ -40,6 +40,7 @@ row_2:
   a: Learn more about couples massage
   a_href: /massage/couples-massage
 banner_3:
+  a_is_button: true
   no_margin: true
   h2: Looing to try something new?
   p: Just when you thought it couldn’t get any better. Add our enhancements to your massage for even more benefits. Go ahead, you deserve it.
