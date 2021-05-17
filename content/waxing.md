@@ -13,7 +13,7 @@ hero:
   a_href: /schedule-an-appointment
 ---
 
-Don’t try to wax yourself at home unless you’ve done it many times before, as you can end up with bruised skin. At Massage Me we make sure your waxing experience leaves you feeling relaxed and safe in the hands of our professional staff.
+Don’t try to wax yourself at home unless you’ve done it many times before, as you can end up with bruised skin. At Massage Eden we make sure your waxing experience leaves you feeling relaxed and safe in the hands of our professional staff.
 
 
 ## Benefits of Professional Waxing
@@ -33,7 +33,7 @@ Repeated shaving can lead to chronic skin inflammation. With waxing the skin wil
 
 ## Clean and Safe Waxing
 
-Don’t try to wax yourself at home unless you’ve done it many times before, as you can end up with bruised skin. At Massage Me we make sure your waxing experience leaves you feeling relaxed and safe in the hands of our professional staff.
+Don’t try to wax yourself at home unless you’ve done it many times before, as you can end up with bruised skin. At Massage Eden we make sure your waxing experience leaves you feeling relaxed and safe in the hands of our professional staff.
 
 ## How vs Strip Waxing
 
