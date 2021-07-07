@@ -1,4 +1,4 @@
-{{ $img := ((resources.GetMatch (print "images/" .img )).Fill "1920x1080 webp q90").RelPermalink }}
+{{ $img := ((resources.GetMatch (print "images/" .img )).Fill "1920x1080").RelPermalink }}
 <section class="bg-cover bg-center" style="background-image: url('{{ $img }}')">
   <div class="bg-neutral-900 bg-opacity-60 pt-12 lg:pt-0">
     <div class="text-center text-white">
