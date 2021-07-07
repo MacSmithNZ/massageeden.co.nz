@@ -1,0 +1,9 @@
+{{ $img := (resources.GetMatch (print "images/" .img)) }}
+
+<picture>
+  {{ $imgR := $img.Fill (print .size " center webp q90") }}
+  <source srcset="{{ $imgR.RelPermalink }}" type="image/webp">
+  {{ $imgR := $img.Fill (print .size " center q75") }}
+  <source srcset="{{ $imgR.RelPermalink }}" type="image/jpg">
+  <img src="{{ $imgR.RelPermalink }}" class="{{ .class }}" alt="{{ .alt }}">
+</picture>
