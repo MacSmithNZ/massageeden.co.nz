@@ -1,2 +1,4 @@
-github.com/MacSmithNZ/tailwind-starter/v2 v2.0.0-20201202002228-1a87e7db83cf h1:ZhLlcyZDk3uI3mslHSH2rbESIYQkQCXD4/o1hoQn+DA=
-github.com/MacSmithNZ/tailwind-starter/v2 v2.0.0-20201202002228-1a87e7db83cf/go.mod h1:ZkWNgq4+02Tzaca71WpiUVWeJ5Hz/RW6hGXdAeoFqqs=
+github.com/MacSmithNZ/tailwind-starter v0.0.0-20210722001103-ec4b1471d659 h1:BAqreHDmbzS10gkYMYayNO+GDgull6V1VXCO7hv8Qyk=
+github.com/MacSmithNZ/tailwind-starter v0.0.0-20210722001103-ec4b1471d659/go.mod h1:s+mL4Zy+ff0CBOMyEtQ04Gtc4M5c35I+yP9x8A8IQcU=
+github.com/MacSmithNZ/tailwind-starter v0.0.0-20210722003455-b144cf0b99ab h1:TnABu9gbHZY9GsBLCL4GuK+OTx90ansyDMBjRcbE/c0=
+github.com/MacSmithNZ/tailwind-starter v0.0.0-20210722003455-b144cf0b99ab/go.mod h1:s+mL4Zy+ff0CBOMyEtQ04Gtc4M5c35I+yP9x8A8IQcU=

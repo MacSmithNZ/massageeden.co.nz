@@ -1,9 +1,3 @@
 {{ define "main" }}
-<section class="px-5 py-12 bg-neutral-50">
-  <div class="max-w-3xl mx-auto">
-    <h1>Online Booking</h1>
-    <iframe title="Online Booking" src="https://bookings.gettimely.com/massageeden/bb/book" class="w-full" height="800"
-      scrolling="no" id="timelyWidget"></iframe>
-  </div>
-</section>
+{{ partial "hero/hero_third" .Params.hero }}
 {{ end }}

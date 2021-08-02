@@ -1,4 +1,6 @@
+{{ if ne .Params.footer_banner false }}
 {{ partial "banners/banner_primary" .Site.Params.call_to_action }}
+{{ end }}
 
 <footer class="bg-primary-600 text-white py-12 px-5">
   <div class="max-w-screen-2xl mx-auto lg:grid lg:grid-cols-4 lg:gap-12">
