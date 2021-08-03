@@ -18,7 +18,7 @@ row:
   a_1: Book online
   a_1_href: /schedule-an-appointment
   a_2: Show on maps
-  a_2_href: TODO
+  a_2_href: https://maps.google.com/maps?cid=11971744219492874884
 banner_1:
   h2: “Relax, unwind and invest some well deserved time in yourself at Massage Eden.”
 cards:
