@@ -8,6 +8,6 @@ hero:
   h1: A one-of-a-kind massage for the one and only you.
   p: Therapeutic needs vary from day-to-day and from person-to-person. Our therapists use a combination of methods based on your needs.
   a: Book now
-  a_href: /schedule-an-appointment
+  a_href: /schedule-an-appointment/
 ---
 

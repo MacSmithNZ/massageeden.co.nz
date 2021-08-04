@@ -10,7 +10,7 @@ hero:
   h1: Everyone Deserves Smooth Skin
   p: Male models do it, footballers do it. So what’s to stop all men treating themselves to a professional body wax?
   a: Book now
-  a_href: /schedule-an-appointment
+  a_href: /schedule-an-/
 ---
 
 Don’t try to wax yourself at home unless you’ve done it many times before, as you can end up with bruised skin. At Massage Eden we make sure your waxing experience leaves you feeling relaxed and safe in the hands of our professional staff.

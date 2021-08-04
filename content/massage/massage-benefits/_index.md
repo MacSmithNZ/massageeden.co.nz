@@ -7,6 +7,6 @@ hero:
   h1: Your body is relaxed and your mind is clear.
   p: An occasional massage can leave you feeling great, but regular massage can do so much more.
   a: Schedule an appointment
-  a_href: /schedule-an-appointment
+  a_href: /schedule-an-appointment/
 ---
 

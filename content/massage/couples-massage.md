@@ -5,7 +5,7 @@ hero:
   h1: Strengthen Your Relationship with Couples Massage
   p: Enjoy your next massage session together.
   a: Book now
-  a_href: /schedule-an-appointment
+  a_href: /schedule-an-appointment/
 ---
 
 Strengthen your relationship with Couples Massage. Enjoy your next massage session together.

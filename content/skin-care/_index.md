@@ -24,7 +24,7 @@ row:
   h2: Facial Treatments
   p: Do you want healthy and radiant skin? Having a regular skincare regimen won’t only give you amazing and fast results but they also last longer too. Massage Eden promotes the nourishment of natural glowing skin that can be easily maintained with future treatments.
   a: Learn more about our facials
-  a_href: /skin-care/facials
+  a_href: /skin-care/facials/
 row_2:
   is_reverse: true
   img: 263A0128.JPG
@@ -32,6 +32,6 @@ row_2:
   h2: Infrared Sauna
   p: Infrared heat therapy improves muscle endurance and recovery, reduces chronic pain and symptoms of rheumatoid arthritis, helps to lower blood pressure, improves circulation and blood flow, and boosts mood.
   a: Learn more about infrared sauna
-  a_href: /skin-care/infrared-sauna
+  a_href: /skin-care/infrared-sauna/
 ---
 

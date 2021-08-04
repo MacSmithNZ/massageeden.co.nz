@@ -10,7 +10,7 @@ hero:
   h1:  The newest addition to Rotorua's Day Spa & Wellness industry.
   p: Located in the Pullman Hotel, we offer a 5-star massage experience at an affordable starting price. Start your wellness journey with Massage Eden today!
   a: Schedule an appointment
-  a_href: /schedule-an-appointment
+  a_href: /schedule-an-appointment/
 banner:
   no_margin: true
   bg_color: neutral-50

@@ -8,7 +8,7 @@ hero:
   h1: Feel confident going into your massage.
   p: Get to know the steps beforehand so you're feeling as relaxed as possible walking into your massage appointment.
   a: Book an appointment
-  a_href: /schedule-an-appointment
+  a_href: /schedule-an-appointment/
 ---
 
 {{< img src="IMG_7642.JPG" fill="900x600 webp" alt="Happy Customer at Massage Eden" >}}
