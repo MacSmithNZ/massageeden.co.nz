@@ -4,7 +4,7 @@ date: 2021-08-04T10:25:55+12:00
 draft: false
 ---
 
-At Massage Eden, accessible from https://massageeden.co.nz/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Massage Eden and how we use it.
+At Massage Eden, accessible from [https://massageeden.co.nz/](https://massageeden.co.nz/), one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Massage Eden and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
