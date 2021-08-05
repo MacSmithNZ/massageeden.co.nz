@@ -1,5 +1,6 @@
 ---
 title: "Couples Massage"
+description: "Couples massage is a great way to say I love you to the person you love most. Share a personal experience, together."
 date: 2021-05-17T14:57:22+12:00
 hero:
   h1: Strengthen Your Relationship with Couples Massage

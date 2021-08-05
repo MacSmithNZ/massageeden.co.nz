@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: "About Us"
+description: "Learn all about Massage Eden: who we partner with, how we help our clients, and our role in the massage industry."
 date: 2021-05-13T09:01:18+12:00
 menu:
   main:

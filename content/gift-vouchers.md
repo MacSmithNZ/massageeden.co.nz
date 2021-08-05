@@ -1,5 +1,6 @@
 ---
 title: "Gift Vouchers"
+description: "Massage Gift Certificates. Massage Therapy and Therapeutic Massage at Massage Eden. Massage Eden gift certificates are the perfect gift for any occasion."
 date: 2021-05-13T08:59:31+12:00
 menu:
   main:

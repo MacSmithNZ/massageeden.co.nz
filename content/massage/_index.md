@@ -1,5 +1,6 @@
 ---
-title: "Massage"
+title: "Massage Makes a Difference"
+description: "Massage Eden offers a therapeutic massage tailored to help you address your specific wellness needs for a highly focused, personalized massage every time."
 date: 2021-04-28T10:44:58+12:00
 menu:
   main:

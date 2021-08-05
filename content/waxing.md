@@ -1,5 +1,6 @@
 ---
-title: "Waxing"
+title: "Professional Waxing Services"
+description: "Clean and safe professional waxing services at Massage Eden. Leave your skin feeling silky smooth, today!"
 date: 2021-05-13T08:52:38+12:00
 menu:
   main:

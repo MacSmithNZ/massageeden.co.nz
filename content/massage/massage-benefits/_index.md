@@ -1,5 +1,6 @@
 ---
 title: "Massage Benefits"
+description: "Massage therapy has been proven to promote health and wellness. Visit Massage Eden to learn more about the benefits of our massage therapies."
 date: 2021-05-14T11:13:14+12:00
 layout: massage-benefits
 hero:
