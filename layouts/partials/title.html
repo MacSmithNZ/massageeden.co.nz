@@ -1,0 +1,5 @@
+{{ if ne .IsHome true }}
+<title>{{ .Page.Title }} | {{ .Site.Title }}</title>
+{{ else }}
+<title>{{ .Page.Title }}</title>
+{{ end }}
