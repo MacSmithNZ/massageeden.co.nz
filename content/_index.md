@@ -6,6 +6,7 @@ draft: false
 fixed_header: true
 hero:
   img: IMG_7659.JPG
+  img_alt: Massage Eden
   h1: Welcome to Massage Eden — Rotorua's newest day spa.
   p: At Massage Eden, you'll find a positive indulgence you can afford to make a habit of.
   a: Book an appointment
