@@ -3,27 +3,27 @@
     {
       "service": "Body Massage",
       "minutes": 60,
-      "price": 109
+      "price": 119
     },
     {
       "service": "Body Massage",
       "minutes": 90,
-      "price": 159
+      "price": 169
     },
     {
       "service": "Couples Massage",
       "minutes": 60,
-      "price": 209
+      "price": 229
     },
     {
       "service": "Pampering Package",
       "minutes": 120,
-      "price": 209
+      "price": 229
     },
     {
       "service": "Infrared Sauna",
       "minutes": 30,
-      "price": 35
+      "price": 40
     }
   ]
 }
