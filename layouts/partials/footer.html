@@ -5,7 +5,8 @@
 <footer class="bg-primary-600 text-white py-12 px-5">
   <div class="max-w-screen-2xl mx-auto lg:grid lg:grid-cols-4 lg:gap-12">
     <div class="pb-4 border-b border-primary-400 lg:border-b-0">
-      <img alt="Massage Eden logo in white." class="h-10" src='{{ (resources.GetMatch "logo/logo-white.svg").RelPermalink }}'>
+      <img alt="Massage Eden logo in white." class="h-10"
+        src='{{ (resources.GetMatch "logo/logo-white.svg").RelPermalink }}'>
     </div>
     <div class="py-4 border-b border-primary-400 lg:border-b-0">
       <p class="font-bold">Sitelinks</p>
@@ -26,8 +27,23 @@
       <p><a class="underline text-white" href="{{.Site.Params.google_maps_link }}">Google maps</a></p>
       <p>Tel: <a class="text-white" href="tel:+6473439760">+64 7 343 9760</a></p>
     </div>
-    <div class="pt-4 text-sm">
-      <p>©2021 Massage Eden - All rights reserved | <a class="text-white" href="/privacy/">Privacy</a> | <a class="text-white" href="/terms/">Terms</a> | <a class="text-white" href="https://massagemedayspa.co.nz/">Massage Me Day Spa</a></p>
+    <div class="py-4 border-b border-primary-400 lg:border-b-0">
+      <p class="font-bold">Find us on</p>
+      <ul>
+        {{ range .Site.Menus.social }}
+        <li>
+          <a class="text-white flex items-center" href="{{ .URL }}">
+            {{ partial (print "icons/" .Pre) (dict "class" "fill-current w-4 h-4 mr-2") }}
+            {{ .Name }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    <div class="pt-4 text-sm lg:text-center lg:col-span-4">
+      <p>©2021 Massage Eden - All rights reserved | <a class="text-white" href="/privacy/">Privacy</a> | <a
+          class="text-white" href="/terms/">Terms</a> | <a class="text-white"
+          href="https://massagemedayspa.co.nz/">Massage Me Day Spa</a></p>
     </div>
   </div>
 </footer>

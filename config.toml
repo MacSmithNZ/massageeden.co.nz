@@ -9,6 +9,21 @@ writeStats = true
   [[module.imports]]
     path = "github.com/MacSmithNZ/tailwind-starter"
 
+[[menus.social]]
+name = "Facebook"
+URL = "https://www.facebook.com/MassageEdenNZ"
+pre = "facebook-f"
+
+[[menus.social]]
+name = "Instagram"
+URL = "https://www.instagram.com/massageedennz/"
+pre = "instagram"
+
+[[menus.social]]
+name = "Tripadvisor"
+URL = "https://www.tripadvisor.co.nz/Attraction_Review-g255111-d23542323-Reviews-Massage_Eden_at_the_Pullman-Rotorua_Rotorua_District_Bay_of_Plenty_Region_North_.html"
+pre = "tripadvisor"
+
 [params]
 bookingLink = "/schedule-an-appointment/"
 google_maps_link = "https://maps.google.com/maps?cid=11971744219492874884"
