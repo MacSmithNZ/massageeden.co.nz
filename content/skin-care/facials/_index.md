@@ -19,7 +19,7 @@ Making Massage Eden facials a regular part of your skin care regimen can help yo
 
 As surprising as it may seem, Rotorua's thermal mud is considered top tier when it comes to skincare. It helps build collagen, is loaded with skin loving minerals, improves the texture of your skin, reduces pore size and more.
 
-[Read more about the benefits of Rotorua Thermal Mud](/skin-care/facials/thermal-mud)
+[Read more about the benefits of Rotorua Thermal Mud](/skin-care/facials/thermal-mud/)
 
 ## Bring back that healthy glow.
 
