@@ -1,6 +1,7 @@
 baseURL = "https://massageeden.co.nz/"
 languageCode = "en-nz"
 title = "Massage Eden"
+enableRobotsTXT = true
 
 [build]
 writeStats = true
