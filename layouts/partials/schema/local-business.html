@@ -1,0 +1,17 @@
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "image": [
+      "/1x1-{{ .Site.Params.logo }}",
+      "/4x3-{{ .Site.Params.logo }}",
+      "/16x9-{{ .Site.Params.logo }}"
+    ],
+    "@id": "{{ .Permalink }}",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Permalink }}",
+    "priceRange": "$$$",
+    "sameAs" : "https://www.facebook.com/{{ .Site.Params.facebook_username }}",
+    "telephone": "{{ .Site.Params.tel_number }}"
+  }
+</script>

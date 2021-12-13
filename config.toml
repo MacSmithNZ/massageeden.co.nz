@@ -25,8 +25,11 @@ URL = "https://www.tripadvisor.co.nz/Attraction_Review-g255111-d23542323-Reviews
 pre = "tripadvisor"
 
 [params]
+logo = "massageeden-logo-icon.png"
 bookingLink = "/schedule-an-appointment/"
 google_maps_link = "https://maps.google.com/maps?cid=11971744219492874884"
+facebook_username = "MassageEdenNZ"
+tel_number = "+6473439760"
 
 [params.call_to_action]
 no_margin = true
