@@ -48,8 +48,8 @@
   </div>
 </footer>
 
-{{ if .IsHome }}{{ partial "schema/web-site.html" }}{{ end }}
-{{ if .IsHome }}{{ partial "schema/day-spa.html" }}{{ end }}
+{{ if .IsHome }}{{ partial "schema/web-site.html" . }}{{ end }}
+{{ if .IsHome }}{{ partial "schema/day-spa.html" . }}{{ end }}
 
 {{ partial "schema/web-page.html" . }}
 {{ partial "schema/breadcrumb.html" . }}
