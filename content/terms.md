@@ -1,5 +1,6 @@
 ---
 title: "Terms & Conditions"
+description: "Massage Eden's website Terms & Conditions. What you agree to by using our website."
 date: 2021-08-04T10:30:25+12:00
 draft: false
 ---

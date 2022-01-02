@@ -1,5 +1,6 @@
 ---
 title: "Privacy Policy"
+description: "Massage Eden's website privacy policy. How we handle your data."
 date: 2021-08-04T10:25:55+12:00
 draft: false
 ---

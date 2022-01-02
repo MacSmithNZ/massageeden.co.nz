@@ -1,6 +1,6 @@
 ---
 title: "What to Expect"
-description: Massage Eden offers a therapeutic massage tailored to help you address your specific wellness needs for a highly focused, personalized massage every time.
+description: If you are a massage newbie, or just want to know massage etiquette, you can learn more about how to enjoy your first massage.
 date: 2021-05-10T12:18:38+12:00
 layout: what-to-expect
 hero:
