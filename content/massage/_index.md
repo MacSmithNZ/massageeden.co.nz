@@ -47,4 +47,11 @@ banner_3:
   p: Just when you thought it couldn’t get any better. Add our enhancements to your massage for even more benefits. Go ahead, you deserve it.
   a: See massage enhancements
   a_href: /massage/massage-enhancements/
+row_3:
+  img: IMG_7658.JPG
+  alt: Couples Massage
+  h2: Our therapists love what they do. And so will you.
+  p: The Massage Eden team is a hard working dedicated group of therapists. All highly skilled and trained to take care of your massage needs.
+  a: Learn more about us
+  a_href: /about/
 ---
