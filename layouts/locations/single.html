@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="max-w-2xl mx-auto py-16">
+  <nav class="">
+    <ul class="flex font-bold">
+      <li class="mr-2">
+        <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a> |
+      </li>
+      <li>
+        <p>{{ .Title }}</p>
+      </li>
+    </ul>
+  </nav>
+  <span class="uppercase tracking-wide">Massage Eden</span>
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Params.address }}</p>
+  <p>
+    <a href="tel:{{ .Params.phone }}">{{ .Params.phone }}</a>
+  </p>
+  <a class="font-bold" href="{{ .Params.maps }}">Get Directions</a>
+</div>
+{{ end }}
