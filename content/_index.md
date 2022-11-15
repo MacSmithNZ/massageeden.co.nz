@@ -7,15 +7,15 @@ fixed_header: true
 hero:
   img: IMG_7659.JPG
   img_alt: Massage Eden
-  h1: Welcome to Massage Eden — Rotorua's newest day spa.
+  h1: Experience bliss at Massage Eden
   p: At Massage Eden, you'll find a positive indulgence you can afford to make a habit of.
   a: Book an appointment
   a_href: /schedule-an-appointment/
 row:
   img: 263A0185.JPG
-  alt: Massage Eden Rotorua.
-  h2: Massage Eden Lifestyle & Wellness Spa — Now Open!
-  p: Massage Eden is the newest addition to Rotorua's thriving Day Spa & Wellness industry. Located in the [Pullman Hotel](https://www.pullmanrotorua.com/), we offer a 5-star massage experience at an affordable starting price. Start your wellness journey with Massage Eden today!
+  alt: Massage Eden Auckland & Rotorua.
+  h2: Massage Eden Lifestyle & Wellness Spa
+  p: At Massage Eden Auckland & Rotorua, we promise you a range of treatments that cater to your every need. We focus on providing you value, improved health and well-being; whilst allowing you to relax and drift into a blissful state
   a_1: Book online
   a_1_href: /schedule-an-appointment/
   a_2: Show on maps

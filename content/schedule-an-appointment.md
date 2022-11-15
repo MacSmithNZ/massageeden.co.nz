@@ -7,7 +7,11 @@ footer_banner: false
 hero:
   span: Online Booking
   h1: Schedule your appointment online.
-  p: Use our online booking tool to make your appointment, hassle free.
+  p: Choose your location, then use our online booking tool to make your appointment—hassle free.
   a: Schedule an appointment
-  a_href: https://bookings.gettimely.com/massageeden/bb/book
+  links:
+  - a_href: https://bookings.gettimely.com/massagemedayspa/bb/book
+    a: Auckland
+  - a_href: https://bookings.gettimely.com/massageeden/bb/book
+    a: Rotorua
 ---
