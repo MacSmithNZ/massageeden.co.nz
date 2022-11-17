@@ -10,7 +10,7 @@ fixed_header: true
 hero:
   img: IMG_7659.JPG
   h1: Personalized massage that addresses your specific needs.
-  p: At Rotorua's favourite day spa, you'll find a positive indulgence you can afford to make a habit of.
+  p: At Massage Eden, you'll find a positive indulgence you can afford to make a habit of.
   a: Book an appointment
   a_href: /schedule-an-appointment/
 banner:

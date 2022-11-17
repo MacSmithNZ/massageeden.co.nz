@@ -11,6 +11,18 @@ writeStats = true
   [[module.imports]]
     path = "github.com/MacSmithNZ/tailwind-starter"
 
+[[params.locations]]
+name = "Auckland CBD"
+URL = "https://g.page/MassageMeAuckland"
+
+[[params.locations]]
+name = "Parnell"
+URL = "https://g.page/MassageMeParnell"
+
+[[params.locations]]
+name = "Rotorua"
+URL = "https://goo.gl/maps/vPwYvMsriwtG58ZQ9"
+
 [[menus.social]]
 name = "Facebook"
 URL = "https://www.facebook.com/MassageEdenNZ"

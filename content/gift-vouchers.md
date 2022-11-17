@@ -12,6 +12,8 @@ hero:
   h1: A great gift idea for any occasion.
   p: Merry Christmas! Happy Birthday! Congratulations! Thank You! With so many healthy benefits, a Massage Eden gift voucher is the perfect idea for any occasion.
   links:
-  - a: Purchase gift voucher
+  - a: Rotorua gift voucher
     a_href: https://bookings.gettimely.com/massageeden/bb/purchase
+  - a: Auckland gift voucher
+    a_href: https://www.robovoucher.com/buy/list/NZUEK6/
 ---
