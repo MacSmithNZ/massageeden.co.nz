@@ -1,5 +1,5 @@
 ---
-title: "Massage Eden | Rotorua's Favourite Day Spa"
+title: "Massage Eden | Day Spa Auckland & Rotorua"
 description: "At Massage Eden we believe everyone deserves a professional Massage or Facial. That is why we make your comfort our top priority. Start today!"
 date: 2021-04-09T11:32:41+12:00
 draft: false
@@ -61,7 +61,7 @@ row_2:
   img: 263A0207.JPG
   alt: Jenny & Bill.
   h2: A hard working, dedicated group of therapists.
-  p: Massage Eden is one of Rotorua's most highly rated and popular massage and day spa venues.
+  p: Massage Eden is one of Auckland & Rotorua's most highly rated and popular massage and day spa venues.
   a: About us
   a_href: /about/
   a_is_button: true
