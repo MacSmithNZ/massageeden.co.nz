@@ -25,5 +25,351 @@
       "minutes": 30,
       "price": 40
     }
+  ],
+  "all": [
+    {
+      "title": "Massage Sessions",
+      "items": [
+        {
+          "name": "Half Essential Session",
+          "time": 30,
+          "price": 65,
+          "copy": "Ideal for focusing pain area of legs, neck and shoulder."
+        },
+        {
+          "name": "Three Quarter Essential Session",
+          "time": 45,
+          "price": 89,
+          "copy": "Ideal for full body massage with relaxation massage."
+        },
+        {
+          "name": "Essential Session",
+          "time": 60,
+          "price": 119,
+          "copy": "Ideal for full body massage with mild stress tension"
+        },
+        {
+          "name": "Complete Session",
+          "time": 90,
+          "price": 169,
+          "copy": "Ideal for full body massage with dedicated relief"
+        },
+        {
+          "name": "Maximum Session",
+          "time": 120,
+          "price": 229,
+          "copy": "Ideal for full body massage with chronic stress tension or pain"
+        },
+        {
+          "name": "Extreme Session",
+          "time": 150,
+          "price": 279,
+          "copy": "Ideal for full body massage with more stress tension or pain"
+        },
+        {
+          "name": "Supreme Session",
+          "time": 180,
+          "price": 339,
+          "copy": "Ideal for full body massage with most lots of tension and stress muscle"
+        }
+      ]
+    },
+    {
+      "title": "Couples Massage",
+      "copy": "Be with your loved one in our couple room with the same or different treatment. You choose!",
+      "items": [
+        {
+          "name": "Essential Session",
+          "time": 60,
+          "price": 229
+        },
+        {
+          "name": "Complete Session",
+          "time": 90,
+          "price": 319
+        },
+        {
+          "name": "Maximum Session",
+          "time": 120,
+          "price": 429
+        },
+        {
+          "name": "Extreme Session",
+          "time": 150,
+          "price": 519
+        },
+        {
+          "name": "Supreme Session",
+          "time": 180,
+          "price": 629
+        }
+      ]
+    },
+    {
+      "title": "Massage Add-ons",
+      "items": [
+        {
+          "name": "Sugar Exfoliation",
+          "price": 15
+        },
+        {
+          "name": "Aromatherapy",
+          "price": 15
+        },
+        {
+          "name": "Balinese Beer",
+          "price": 20
+        },
+        {
+          "name": "Hot Stone",
+          "price": 20
+        },
+        {
+          "name": "Hot Herbal Compress",
+          "price": 30
+        }
+      ]
+    },
+    {
+      "title": "Spa Packages",
+      "items": [
+        {
+          "name": "Pampering Package",
+          "time": 120,
+          "price": 229,
+          "copy": "For relaxation and serenity • Any choices of body massage for 60 minutes • Follow with 60 minutes facial rejuvenating treatment"
+        },
+        {
+          "name": "Purifying Package",
+          "time": 120,
+          "price": 229,
+          "copy": "For replenishing and calm • Start with 60 minutes Neck and shoulder including Eastern head massage with warm coconut oil or Moroccan oil. Your choice! • Follow with 60 minutes facial rejuvenating treatment"
+        },
+        {
+          "name": "Invigorating Package",
+          "time": 120,
+          "price": 229,
+          "copy": "For stimulating and restoring • Begin with 15 minutes infrared sauna then 45 minutes of body exfoliating or wrap. • Follow with any choices of body massage for 60 minutes"
+        },
+        {
+          "name": "Detox Ritual Package",
+          "time": 120,
+          "price": 239,
+          "copy": "For detoxifying and rejuvenating the skin • Begin with 45 minutes body exfoliating or wrap. • After freshen up from a hot shower then relaxing with Aromatherapy and Eastern head massage for 75 minutes"
+        },
+        {
+          "name": "Herbal Healing Package",
+          "time": 120,
+          "price": 239,
+          "copy": "For stimulating and rehabilitation • Start with 90 minutes Herbal hot compress and Eastern head massage. • Follow with 30 minutes Oriental foot massage or reflexology"
+        },
+        {
+          "name": "Ultimate Indulgence Package",
+          "time": 180,
+          "price": 339,
+          "copy": "For complete rejuvenation • Begin with 15 minutes infrared sauna then 45 minutes of body exfoliating or wrap. • Any choices of body massage for 60 minutes and • Finish with 60 minutes facial rejuvenating treatment"
+        },
+        {
+          "name": "Oriental Retreat Package",
+          "time": 180,
+          "price": 339,
+          "copy": "For soothing and healing • Start from 90 minutes hot stone and Eastern head massage. • Follow with 30 minutes Oriental foot massage or reflexology • Ending with 60 minutes facial rejuvenating treatment"
+        }
+      ]
+    },
+    {
+      "title": "Infrared Sauna",
+      "items": [
+        {
+          "name": "Basic Sauna",
+          "time": 15,
+          "price": 25
+        },
+        {
+          "name": "Standard Sauna",
+          "time": 20,
+          "price": 35
+        },
+        {
+          "name": "Bliss Sauna",
+          "time": 30,
+          "price": 40
+        },
+        {
+          "name": "Extreme Sauna",
+          "time": 45,
+          "price": 60
+        },
+        {
+          "name": "Supreme Sauna",
+          "time": 60,
+          "price": 75
+        }
+      ]
+    },
+    {
+      "title": "Facial Treatments",
+      "items": [
+        {
+          "name": "Mini Facial",
+          "time": 30,
+          "price": 65
+        },
+        {
+          "name": "Purifying & Rebalancing Treatment",
+          "time": 45,
+          "price": 89
+        },
+        {
+          "name": "Rejuvenating Treatment",
+          "time": 60,
+          "price": 119
+        }
+      ]
+    },
+    {
+      "title": "Waxing",
+      "items": [
+        {
+          "name": "Back, sack, and crack",
+          "time": 60,
+          "price": 119
+        },
+        {
+          "name": "Female Brazilian Wax (First time)",
+          "time": 45,
+          "price": 89
+        },
+        {
+          "name": "Female Brazilian Wax (Recurring)",
+          "time": 30,
+          "price": 65
+        },
+        {
+          "name": "Bikini Line",
+          "time": 15,
+          "price": 40
+        },
+        {
+          "name": "Eyebrow",
+          "time": 15,
+          "price": 20
+        },
+        {
+          "name": "Upper lips",
+          "time": 15,
+          "price": 20
+        },
+        {
+          "name": "Eyebrow & upper lip",
+          "time": 20,
+          "price": 40
+        },
+        {
+          "name": "Underarms",
+          "time": 20,
+          "price": 30
+        },
+        {
+          "name": "Forearms",
+          "time": 20,
+          "price": 30
+        },
+        {
+          "name": "Buttocks",
+          "time": 20,
+          "price": 40
+        },
+        {
+          "name": "Lower legs to toes",
+          "time": 20,
+          "price": 40
+        },
+        {
+          "name": "Chest & stomach",
+          "time": 20,
+          "price": 40
+        },
+        {
+          "name": "Upper legs to hips",
+          "time": 25,
+          "price": 50
+        },
+        {
+          "name": "Full back",
+          "time": 25,
+          "price": 50
+        },
+        {
+          "name": "Full arms",
+          "time": 30,
+          "price": 50
+        },
+        {
+          "name": "Full legs to toes",
+          "time": 30,
+          "price": 60
+        },
+        {
+          "name": "Full face",
+          "time": 30,
+          "price": 60
+        },
+        {
+          "name": "Full body",
+          "time": 120,
+          "price": 229
+        }
+      ]
+    },
+    {
+      "title": "Body Scrubs & Wraps",
+      "items": [
+        {
+          "name": "Body Scrub",
+          "time": 45,
+          "price": 95
+        },
+        {
+          "name": "Half Body Wrap",
+          "time": 45,
+          "price": 95,
+          "copy": "This treatment intended to result in a reduction in body measurements, involving the application of skin-cleansing ingredients to the body, which is then wrapped in hot bandages."
+        },
+        {
+          "name": "Essential Body Wrap",
+          "time": 60,
+          "price": 119,
+          "copy": "This treatment intended to result in a reduction in body measurements, involving the application of skin-cleansing ingredients to the body, which is then wrapped in hot bandages."
+        },
+        {
+          "name": "Oriental Foot Massage",
+          "time": 30,
+          "price": 75,
+          "copy": "Enjoy 30 minutes of our oriental foot massage with a sugar foot scrub."
+        }
+      ]
+    },
+    {
+      "title": "Four Hands Massage",
+      "copy": "The ultimate indulgence, enjoy being pampered by two of our professional massage therapists at one time. Perfect for anyone on the hunt for maximum relaxation.",
+      "items": [
+        {
+          "name": "Essential Therapeutic Four Hands Massage",
+          "time": 60,
+          "price": 200
+        },
+        {
+          "name": "Complete Therapeutic Four Hands Massage",
+          "time": 90,
+          "price": 300
+        },
+        {
+          "name": "Maximum Therapeutic Four Hands Massage",
+          "time": 120,
+          "price": 400
+        }
+      ]
+    }
   ]
 }
