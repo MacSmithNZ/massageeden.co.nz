@@ -1,0 +1,23 @@
+<div>
+  {{ range .Site.Data.pricelist.all }}
+  <h3>{{ .title }}</h3>
+  <table class="text-left w-full">
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th class="pr-4">Minutes</th>
+        <th>Price</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range .items }}
+      <tr>
+        <td class="pt-4 w-full">{{ .name }}</td>
+        <td class="pt-4 pr-4">{{ with .time }}{{ . }}mins{{ else }}N/A {{ end }}</td>
+        <td class="pt-4">${{ .price }}</td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+  {{ end }}
+</div>
