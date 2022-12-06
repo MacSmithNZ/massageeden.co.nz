@@ -14,6 +14,6 @@ hero:
   links:
   - a: Rotorua gift voucher
     a_href: https://bookings.gettimely.com/massageeden/bb/purchase
-  - a: Auckland gift voucher
+  - a: Robovoucher
     a_href: https://www.robovoucher.com/buy/list/NZUEK6/
 ---
