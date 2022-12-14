@@ -17,6 +17,9 @@ banner:
   bg_color: neutral-50
   h2: Get in touch.
   p: Your feedback is very important to us. As Massage Eden is jointly owned and operated we encourage you to direct your questions or provide feedback to our email. you can contact us at info@massageeden.co.nz.
+staff:
+  h3: Meet the team
+  p: The Massage Eden team is a hard working dedicated group of therapists. All highly skilled and trained to take care of your massage needs.
 ---
 
 ### About Massage Eden.

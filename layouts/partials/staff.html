@@ -1,0 +1,23 @@
+<section class="bg-neutral-50">
+  <div class="max-w-md mx-auto py-16 px-5 text-center lg:max-w-screen-xl">
+    <div class="lg:max-w-md lg:mx-auto">
+      <h3>{{.Params.staff.h3 }}</h3>
+      <p>{{.Params.staff.p }}</p>
+    </div>
+    <ul class="lg:grid lg:grid-cols-2 lg:gap-16 2xl:grid-cols-3">
+      {{ range .Pages }}
+      <li class="mt-16">
+        <a href="{{ .RelPermalink }}">
+          {{ $img := (.Resources.GetMatch "headshot").Fill "350x350 center" }}
+          <img class="rounded-full h-48 mx-auto" alt="{{ .Title }}" src="{{ $img.RelPermalink }}">
+        </a>
+        <h4>{{.Title }}</h4>
+        <p>{{ .Description }}</p>
+        {{ if .Content }}
+        <a class="font-bold" href="{{ .RelPermalink }}">Learn more about {{ index (split .Title " ") 0 }}</a>
+        {{ end }}
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</section>
