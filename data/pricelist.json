@@ -328,18 +328,18 @@
         {
           "name": "Body Scrub",
           "time": 45,
-          "price": 95
+          "price": 99
         },
         {
           "name": "Half Body Wrap",
           "time": 45,
-          "price": 95,
+          "price": 109,
           "copy": "This treatment intended to result in a reduction in body measurements, involving the application of skin-cleansing ingredients to the body, which is then wrapped in hot bandages."
         },
         {
           "name": "Essential Body Wrap",
           "time": 60,
-          "price": 119,
+          "price": 129,
           "copy": "This treatment intended to result in a reduction in body measurements, involving the application of skin-cleansing ingredients to the body, which is then wrapped in hot bandages."
         },
         {
@@ -357,17 +357,17 @@
         {
           "name": "Essential Therapeutic Four Hands Massage",
           "time": 60,
-          "price": 200
+          "price": 239
         },
         {
           "name": "Complete Therapeutic Four Hands Massage",
           "time": 90,
-          "price": 300
+          "price": 338
         },
         {
           "name": "Maximum Therapeutic Four Hands Massage",
           "time": 120,
-          "price": 400
+          "price": 458
         }
       ]
     }
