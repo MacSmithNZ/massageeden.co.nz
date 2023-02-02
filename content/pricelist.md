@@ -5,22 +5,17 @@ date: 2022-12-07T10:49:57+13:00
 draft: false
 ---
 
-### December Promotion
+### Valentines Promotions
 
-**Stress Free - 75 Minutes**
-Enjoy 75 minutes of Fusion body massage this holiday season for only
-$129 (normally $149)
+**Spoil me! - 90 Minutes**
+Spoil yourself or a partner with 90 minutes of Balinese beer massage and
+complete the treatment with a scalp massage. Complete body pampering and
+relaxation, all in one easy package.
 
-**Joyful Holiday Combo - 90 Minutes**
-Get 30 minutes of mini facial treatment after 60 minutes of therapeutic
-body massage to leave you feeling refreshed and ready for the new year.
-Only $169 (normally $184)
-
-**New Year New You - 90 minutes**
-Starts with 30 minutes of gentle exfoliating body scrub with Nellie Tier
-"May Chang" which combines sugar, salt, and botanical extracts to soften
-the skin, followed by 60 minutes of relaxing Aromatherapy massage.
-Only $179 (normally $214)
+**Spoil You & Me - 90 Minutes**
+Spoil yourself and your partner together with 90 minutes of Balinese beer
+massage and complete the treatment with a scalp massage. Complete body
+pampering and relaxation are experienced together in our couple's room.
 
 **[Book now](/schedule-an-appointment/)**
 
