@@ -5,17 +5,11 @@ date: 2022-12-07T10:49:57+13:00
 draft: false
 ---
 
-### Valentines Promotions
+### March Promotion
 
-**Spoil me! - 90 Minutes**
-Spoil yourself or a partner with 90 minutes of Balinese beer massage and
-complete the treatment with a scalp massage. Complete body pampering and
-relaxation, all in one easy package.
+**Aromatic Hot Stone Package - 75 Minutes**
 
-**Spoil You & Me - 90 Minutes**
-Spoil yourself and your partner together with 90 minutes of Balinese beer
-massage and complete the treatment with a scalp massage. Complete body
-pampering and relaxation are experienced together in our couple's room.
+Enjoy a relaxation massage with the added benefit of a blend of essential oils tailored to your specific needs, combined with hot volcanic stones to melt away your tension, warming your muscles, increasing circulation, and releasing your knots and stress for 75 minutes. Value at $184, Special in March 2023
 
 **[Book now](/schedule-an-appointment/)**
 
