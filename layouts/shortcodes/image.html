@@ -1,0 +1,4 @@
+<div class=" py-8 lg:py-16 lg:-mx-16">
+    {{ $img := ($.Page.Resources.GetMatch (.Get "src")).Resize "800x" }}
+    <img src="{{ $img.RelPermalink }}" alt='{{ $img.Params.alt }}'>
+  </div>

@@ -44,6 +44,7 @@ bookingLink = "/schedule-an-appointment/"
 google_maps_link = "https://maps.google.com/maps?cid=11971744219492874884"
 facebook_username = "MassageEdenNZ"
 tel_number = "+6473439760"
+time_format_default = "Jan 2, 2006"
 
 [params.call_to_action]
 no_margin = true

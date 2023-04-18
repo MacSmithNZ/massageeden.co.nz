@@ -2,3 +2,14 @@
 @import "typography.css";
 @import "buttons.css";
 @import "header.css";
+
+/* Paginator */
+
+.pagination {
+    display: flex;
+    justify-content: center;
+}
+
+.pagination .page-item {
+    margin: theme('spacing.0') theme( 'spacing.2');
+}

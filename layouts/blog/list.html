@@ -1,0 +1,24 @@
+{{ define "main" }}
+{{ partial "hero/hero_fourth.html" .Params.hero }}
+
+<section class="px-5 py-12">
+    <ul class="sm:grid grid-cols-2 gap-5 max-w-screen-lg mx-auto mb-12">
+        {{ range (.Paginator 10).Pages }}
+        {{ $img := (.Resources.GetMatch "feature").Fill "650x400 center" }}
+        <li class="bg-neutral-50 my-5 sm:my-0">
+            <a href="{{ .RelPermalink }}">
+                <img src="{{ $img.RelPermalink }}" alt="{{ $img.Params.alt }}">
+            </a>
+            <div class="p-5">
+                <a href="{{ .RelPermalink }}">
+                    <h4 class="my-0 mb-5 underline text-neutral-900">{{ .Title }}</h4>
+                </a>
+                <p class="text-neutral-900 mb-0">{{ .Description }}</p>
+            </div>
+        </li>
+        {{ end }}
+    </ul>
+    {{ template "_internal/pagination.html" . }}
+</section>
+
+{{ end }}

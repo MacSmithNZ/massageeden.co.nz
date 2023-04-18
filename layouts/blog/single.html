@@ -1,0 +1,56 @@
+{{ define "main" }}
+<article {{ if eq .Params.bg_neutral true }} class="bg-neutral-50" {{ end }}>
+    <header {{ if eq .Params.bg_neutral true }} class="bg-white" {{ end }}>
+        <div class="px-5 pt-12 max-w-md mx-auto">
+            <a href="{{ .Parent.RelPermalink }}">Blog</a>
+        </div>
+        <h1 class="px-5 pt-6 max-w-md mx-auto">{{ .Title }}</h1>
+    </header>
+    <div class="px-5 pt-12 max-w-md mx-auto">
+        {{ $img := (.Resources.GetMatch "feature").Fill "650x400 center" }}
+        <img src="{{ $img.RelPermalink }}" alt="{{ $img.Params.alt }}">
+    </div>
+    <section class="px-5 py-12 max-w-md mx-auto">
+        {{ .Content }}
+    </section>
+</article>
+
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "{{ .Title }}",
+      "wordcount": "{{ countwords .Content }}",
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ site.BaseURL }}{{ site.Params.logo_jpg }}"
+        }
+      },
+      "url": "{{ .RelPermalink }}",
+      "datePublished": "{{ .Date.Format $.Site.Params.time_format_default }}",
+      "dateModified": "{{ .Lastmod.Format $.Site.Params.time_format_default }}",
+      "description": "{{ .Description }}",
+      "articleBody": {{ plainify .Content }},
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ .RelPermalink }}"
+      },
+      "image": [
+        {{$img := .Resources.GetMatch "feature" }}
+        {{ $img = $img.Fill "1000x1000" }}
+        "{{ $img.RelPermalink }}",
+        {{ $img = $img.Fill "1200x900" }}
+        "{{ $img.RelPermalink }}",
+        {{ $img = $img.Fill "1600x900" }}
+        "{{ $img.RelPermalink }}"
+      ],
+      "author": {
+        "@type": "Person",
+        "name": "{{ .Params.author }}"
+      }
+    }
+  </script>
+{{ end }}
