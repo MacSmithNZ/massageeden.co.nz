@@ -5,11 +5,11 @@ date: 2022-12-07T10:49:57+13:00
 draft: false
 ---
 
-### March Promotion
+### April Promotion
 
-**Aromatic Hot Stone Package - 75 Minutes**
+**Easter Bliss - 75 Minutes**
 
-Enjoy a relaxation massage with the added benefit of a blend of essential oils tailored to your specific needs, combined with hot volcanic stones to melt away your tension, warming your muscles, increasing circulation, and releasing your knots and stress for 75 minutes. Value at $184, Special in March 2023 now only $159!
+The Easter Bliss promotion includes a 75-minute massage session, which combines 60 minutes of deep tissue massage with an additional 15 minutes of foot massage. Deep tissue massage is an excellent way to relieve muscle tension and soothe sore spots, while foot massage helps to improve circulation and promote relaxation.
 
 **[Book now](/schedule-an-appointment/)**
 
