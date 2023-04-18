@@ -60,4 +60,6 @@
 {{ if .IsHome }}{{ partial "schema/day-spa.html" . }}{{ end }}
 
 {{ partial "schema/web-page.html" . }}
+{{ if ne .Page.Params.breadcrumbs false }}
 {{ partial "schema/breadcrumb.html" . }}
+{{ end }}
