@@ -2,6 +2,7 @@
 title: "April Update"
 description: "Indulge in some Easter Bliss with Massage Eden's 75-min massage session - 60 mins deep tissue massage + 15 mins foot massage for only $129! 🐰🌸"
 date: 2023-04-19T10:24:28+12:00
+author: Jenny K
 resources:
 - name: feature
   src: easter.jpg
