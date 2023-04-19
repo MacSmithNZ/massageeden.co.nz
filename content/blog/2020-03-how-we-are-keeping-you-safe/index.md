@@ -14,7 +14,7 @@ Dear our lovely customers,
 
 Your safety and health are essential to us, and we are committed to doing everything we can to support our community. We are closely monitoring the advice and guidelines from the Ministry of Health and the World Health Organisation.
 
-For clients that have appointments booked, if you are not feeling well (i.e. you are experiencing a fever, cold or flu-like symptoms) we encourage you to reschedule. Our Massage Me Day Spa team can assist with any rescheduling, please contact us so we can help you. You can reach us by email, live chat on Google or give us a call or by text message.
+For clients that have appointments booked, if you are not feeling well (i.e. you are experiencing a fever, cold or flu-like symptoms) we encourage you to reschedule. Our Massage Eden team can assist with any rescheduling, please contact us so we can help you. You can reach us by email, live chat on Google or give us a call or by text message.
 
 Both our branches are currently open and operating. Our team have all given this plenty of care by increased hygiene practices including:
 
@@ -29,4 +29,4 @@ Our thoughts go out to everyone who has been affected by the impact of COVID-19.
 
 Kind Regards,
 
-The Massage Me Day Spa team
+The Massage Eden team

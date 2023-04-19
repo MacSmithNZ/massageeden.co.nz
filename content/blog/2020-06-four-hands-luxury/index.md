@@ -1,6 +1,6 @@
 ---
 title: "Four Handed Luxury"
-description: Experience the bliss that is Four Hands Massage at Massage Me Day Spa
+description: Experience the bliss that is Four Hands Massage at Massage Eden
 date: 2020-06-10T09:23:25+12:00
 author: Jenny K
 resources:

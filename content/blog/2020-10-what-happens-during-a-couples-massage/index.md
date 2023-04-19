@@ -10,7 +10,7 @@ resources:
     alt: Couple enjoing a massage together.
 ---
 
-Here at Massage Me Day Spa, couples massage is one of the most popular services we offer. It makes up around 27% of our total bookings! So it's no surprise we encourage everyone to come on in and try it out.
+Here at Massage Eden, couples massage is one of the most popular services we offer. It makes up around 27% of our total bookings! So it's no surprise we encourage everyone to come on in and try it out.
 
 The couples can be a husband and wife, girlfriend and boyfriend, same-sex partners, mums and daughters, best friends, or any other combination of two people. It isn't strictly for couples (despite what the name says).
 
@@ -28,7 +28,7 @@ Sometimes you're not intimate partners, just travelling with someone you don't g
 
 ## How much does it cost?
 
-The price of your couples massage depends on the length of the booking. At Massage Me Day Spa, our couples massage is slightly cheaper than a regular massage for two people—*starting at $189 for 60 minutes*. So if you want to get the best value massage, coming with a partner is the way to go.
+The price of your couples massage depends on the length of the booking. At Massage Eden, our couples massage is slightly cheaper than a regular massage for two people—*starting at $189 for 60 minutes*. So if you want to get the best value massage, coming with a partner is the way to go.
 
 ## Is there any downside to couples massage?
 

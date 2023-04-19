@@ -1,6 +1,6 @@
 ---
 title: "Balinese Heat Therapy Package"
-description: Build up your immune system. It's been a rough start of the year. Treat yourself to something nice. Massage Me Day Spa June 2020 Newsletter
+description: Build up your immune system. It's been a rough start of the year. Treat yourself to something nice. Massage Eden June 2020 Newsletter
 date: 2020-06-02T11:13:54+12:00
 author: Jenny K
 resources:
@@ -39,7 +39,7 @@ From this month, we're happy to announce we've got a new therapist joining the t
 
 ## 25% Off Value Vouchers
 
-And finally, Just letting everyone know our deal for 25% off of all value voucher purchases is still available until the 15th of June. You can purchase Massage Me Day Spa gift vouchers from our website or you can click this link to go directly to our purchasing tool.
+And finally, Just letting everyone know our deal for 25% off of all value voucher purchases is still available until the 15th of June. You can purchase Massage Eden gift vouchers from our website or you can click this link to go directly to our purchasing tool.
 
 We hope everyone is staying safe, keeping well, and doing their best in these uncertain times. We're pushing forward with our work and are very happy to be able to see everyone again.
 
@@ -47,4 +47,4 @@ Here's to a better second half of the year. Hope to see you all soon.
 
 Much love,
 
-- Jenny and the Team at Massage Me Day Spa
+- Jenny and the Team at Massage Eden

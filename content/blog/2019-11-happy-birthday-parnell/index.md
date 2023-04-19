@@ -1,6 +1,6 @@
 ---
 title: "Happy Birthday Parnell"
-description: Massage Me Day Spa's Parnell branch is now 1 year old. Let's have a look back over the last year.
+description: Massage Eden's Parnell branch is now 1 year old. Let's have a look back over the last year.
 date: 2019-11-11T13:56:44+11:00
 author: Jenny K
 resources:

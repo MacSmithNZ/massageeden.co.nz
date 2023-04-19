@@ -1,7 +1,7 @@
 ---
 title: "Massage Therapy Helps Relieves Stress"
 date: 2019-09-25T10:58:51+12:00
-description: Looking for the perfect stress reliever? Schedule a session with Massage Me Day Spa, and be on your way to a clearer, calmer mind and body.
+description: Looking for the perfect stress reliever? Schedule a session with Massage Eden, and be on your way to a clearer, calmer mind and body.
 author: Jenny K
 resources:
 - name: feature

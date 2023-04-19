@@ -28,4 +28,4 @@ Lastly, as we mentioned last month, **we'll be putting our prices up from the st
 
 Thank you for your continued support and patronage, wishing you a Happy Easter!
 
-**– Jenny & the Team at Massage Me Day Spa**
+**– Jenny & the Team at Massage Eden**

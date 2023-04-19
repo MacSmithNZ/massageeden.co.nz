@@ -1,16 +1,16 @@
 ---
 title: "Work With Us"
-description: Join the Massage Me Day Spa team. Start your career in massage therapy with Massage Me Day Spa. We're looking for new therapists to hire.
+description: Join the Massage Eden team. Start your career in massage therapy with Massage Eden. We're looking for new therapists to hire.
 date: 2019-09-27T09:59:55+12:00
 author: Jenny K
 resources:
 - name: feature
   src: massage-me-team.jpg
   params:
-    alt: The Massage Me Day Spa team.
+    alt: The Massage Eden team.
 ---
 
-Massage Me Day Spa has been operating in Auckland Central for over 6 years. Now we are looking to expand our business whilst still focusing on offering a valueable, and high-end service. Helping our clients improve their health and general well-being. Our attention to detail and attentiveness to our clients needs is what has propelled us forward as one of Auckland’s fastest growing day spa venues.
+Massage Eden has been operating in Auckland Central for over 6 years. Now we are looking to expand our business whilst still focusing on offering a valueable, and high-end service. Helping our clients improve their health and general well-being. Our attention to detail and attentiveness to our clients needs is what has propelled us forward as one of Auckland’s fastest growing day spa venues.
 
 We are looking for experienced therapists to bring in their unique skillset and passion for excellence. With expertise in both Eastern and Western massage techniques, and the ability to provide beauty treatment. Someone who is at home in a luxury day spa environment.
 The Potential Candidates should have these qualities:

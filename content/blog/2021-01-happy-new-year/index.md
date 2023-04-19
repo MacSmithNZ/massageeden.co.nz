@@ -56,4 +56,4 @@ That's all from us for the New Year! We look forward to another great year at th
 
 Much love,
 
-**— Jenny & the Team at Massage Me Day Spa**
+**— Jenny & the Team at Massage Eden**

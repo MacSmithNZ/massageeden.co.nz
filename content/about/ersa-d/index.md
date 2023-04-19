@@ -25,7 +25,7 @@ resources:
 
 ‘For me, I don’t particularly like it when the massage is too ‘hard’. I prefer a softer more relaxing massage. So for me, Balinese massage is perfect. It helps you relax without applying too much strength and pressure. Perfect after a long day when you need to relax and let go.’
 
-## What do you like about working at Massage Me Day Spa?
+## What do you like about working at Massage Eden?
 
 ‘What I like most about working at Massage Me is the people. We are all like one big family. All the staff are friendly and accommodating and we often meet up outside of worker hours to catch up and have fun. As I’m still new to the team, this kind of warmth helped me feel at home and put my mind at ease.’
 

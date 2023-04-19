@@ -1,7 +1,7 @@
 ---
 title: "It's a New Year, time for a New You"
 date: 2020-01-01T10:04:46+13:00
-description: Explore our special New Years promotion. Start the year off on the right foot with Massage Me Day Spa.
+description: Explore our special New Years promotion. Start the year off on the right foot with Massage Eden.
 author: Jenny K
 resources:
 - name: feature

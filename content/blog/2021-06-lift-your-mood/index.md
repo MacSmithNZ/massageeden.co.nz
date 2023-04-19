@@ -38,4 +38,4 @@ That's all from us this month. Hope you're all having a wonderful year, let's al
 
 Much love,
 
-**– Jenny & the Team at Massage Me Day Spa**
+**– Jenny & the Team at Massage Eden**

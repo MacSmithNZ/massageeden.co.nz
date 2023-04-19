@@ -1,6 +1,6 @@
 ---
 title: "Getting Ready For Mother's Day!"
-description: Treat Mum to something special this Mother's Day with a Massage Me Day Spa gift voucher.
+description: Treat Mum to something special this Mother's Day with a Massage Eden gift voucher.
 date: 2021-05-06T09:55:47+12:00
 draft: false
 author: Jenny K
@@ -11,7 +11,7 @@ resources:
     alt: Mother's Day.
 ---
 
-It's May. And May means Mother's Day! It's the time of year to pay Mum back for all the love and support she's given us. And what better way to do that than with Massage Me Day Spa!
+It's May. And May means Mother's Day! It's the time of year to pay Mum back for all the love and support she's given us. And what better way to do that than with Massage Eden!
 
 This year, we've got 2 great vouchers on offer to help Mum relax and unwind.
 
@@ -47,10 +47,10 @@ We have one more big announcement to make this month.
 
 **We'll soon be opening a new location in the always-lovely Rotorua!**
 
-This location will be under new branding, but will still be the same Massage Me Day Spa you know and love. If you're ever in Rotorua, look for [Massage Eden](https://massageeden.co.nz/) in the Pullman hotel. That's where you'll find us! More information to come.
+This location will be under new branding, but will still be the same Massage Eden you know and love. If you're ever in Rotorua, look for [Massage Eden](https://massageeden.co.nz/) in the Pullman hotel. That's where you'll find us! More information to come.
 
 That's all for this month. As always, thanks for being wonderful. Glad to see the world is finally starting to come right.
 
 Much love,
 
-**– Jenny & the Team at Massage Me Day Spa**
+**– Jenny & the Team at Massage Eden**

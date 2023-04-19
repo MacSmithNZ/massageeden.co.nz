@@ -22,16 +22,16 @@ resources:
 
 ## What is your favourite massage technique?
 
-'I've always been drawn to fusion massage. It's Massage Me Day Spa's signature style so it's a way to experience many different techniques as one.'
+'I've always been drawn to fusion massage. It's Massage Eden's signature style so it's a way to experience many different techniques as one.'
 
-## What do you like about working at Massage Me Day Spa?
+## What do you like about working at Massage Eden?
 
-'One of the great things about Massage Me Day Spa is the variety of services we have on offer. Not only do we provide massage services, but you can also come in for a facial, or waxing among other things. That makes for a much more interesting workplace.''
+'One of the great things about Massage Eden is the variety of services we have on offer. Not only do we provide massage services, but you can also come in for a facial, or waxing among other things. That makes for a much more interesting workplace.''
 
 ## What massage technique do you most recommend to your customers?
 
-'I have to recommend Fusion massage for any new customers looking to experience the best of Massage Me Day Spa. As our signature style it's something you can't find anywhere else.'
+'I have to recommend Fusion massage for any new customers looking to experience the best of Massage Eden. As our signature style it's something you can't find anywhere else.'
 
 ## What massage training have you received?
 
-'I spent time training at the union of Thai traditional medicine society before coming to Massage Me Day Spa.'
+'I spent time training at the union of Thai traditional medicine society before coming to Massage Eden.'

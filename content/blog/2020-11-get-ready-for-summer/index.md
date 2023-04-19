@@ -1,6 +1,6 @@
 ---
 title: "Getting Ready for Summer"
-description: At Massage Me Day Spa, we always look forward to Summer. It's the season we get to go all out on spoiling our clients.
+description: At Massage Eden, we always look forward to Summer. It's the season we get to go all out on spoiling our clients.
 date: 2020-11-02T10:36:04+13:00
 author: Jenny K
 resources:
@@ -37,7 +37,7 @@ This offer will also be available in voucher form. If you'd like to have a look 
 
 In other news, we'll be launching a new loyalty reward program starting this month. It's really exciting! For every visit to the spa, you'll start accumulating points. This happens automatically, so you don't need to do anything.
 
-Then, once you hit a certain amount of points, you'll get $15 off your next visit! We think this is a great way we can give a little bit back to our loyal customers. It's always nice to get a surprise discount. So we hope everyone will enjoy this small bonus for visiting Massage Me Day Spa.
+Then, once you hit a certain amount of points, you'll get $15 off your next visit! We think this is a great way we can give a little bit back to our loyal customers. It's always nice to get a surprise discount. So we hope everyone will enjoy this small bonus for visiting Massage Eden.
 
 As always, we love you all and couldn't do any of this without you.
  
@@ -53,4 +53,4 @@ Let's get out and enjoy this Summer! We've earned it!
 
 Much love,
 
-**—Jenny and the team at Massage Me Day Spa**
+**—Jenny and the team at Massage Eden**

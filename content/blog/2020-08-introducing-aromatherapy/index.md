@@ -1,6 +1,6 @@
 ---
 title: "Introducing Aromatherapy"
-description: Build up your immune system. It's been a rough start of the year. Treat yourself to something nice. Massage Me Day Spa June 2020 Newsletter
+description: Build up your immune system. It's been a rough start of the year. Treat yourself to something nice. Massage Eden June 2020 Newsletter
 date: 2020-08-03T09:27:18+12:00
 author: Jenny K
 resources:
@@ -10,11 +10,11 @@ resources:
     alt: A piece of ginger.
 ---
 
-In the middle of this freezing cold and wet weather, our bodies are fighting hard to keep us on our feet and avoid infection. This month at Massage Me Day Spa, we're looking to promote the healing benefits of Aromatherapy.
+In the middle of this freezing cold and wet weather, our bodies are fighting hard to keep us on our feet and avoid infection. This month at Massage Eden, we're looking to promote the healing benefits of Aromatherapy.
 
 Aromatherapy is the practice of using natural, aromatic plant extracts called 'essential oils' to promote health and well-being.
 
-At Massage Me Day Spa, we use Eucalyptus or Peppermint oils, each have different effects on the body.
+At Massage Eden, we use Eucalyptus or Peppermint oils, each have different effects on the body.
 
 If you're interested in learning about the specific health benefits of these oils, below are two links to two separate articles detailing the health benefits of each oil.
 

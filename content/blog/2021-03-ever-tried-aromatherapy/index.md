@@ -39,4 +39,4 @@ Anyway, that's all from us this month. Hope to see you all again soon after this
 
 Much love,
 
-\- Jenny and the Team at Massage Me Day Spa
+\- Jenny and the Team at Massage Eden

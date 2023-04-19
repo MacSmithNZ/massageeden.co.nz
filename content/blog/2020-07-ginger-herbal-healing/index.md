@@ -1,6 +1,6 @@
 ---
 title: "Ginger Herbal Healing"
-description: Build up your immune system. It's been a rough start of the year. Treat yourself to something nice. Massage Me Day Spa June 2020 Newsletter
+description: Build up your immune system. It's been a rough start of the year. Treat yourself to something nice. Massage Eden June 2020 Newsletter
 date: 2020-07-10T09:15:42+12:00
 author: Jenny K
 resources:
@@ -30,4 +30,4 @@ We hope everyone is well and finding their feet again after the tumultuous last 
 
 Wishing everyone all the best,
 
-\- Jenny & the Team at Massage Me Day Spa
+\- Jenny & the Team at Massage Eden

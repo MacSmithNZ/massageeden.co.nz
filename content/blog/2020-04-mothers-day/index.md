@@ -1,7 +1,7 @@
 ---
 title: "Mothers Day 2020"
 date: 2020-04-14T09:22:12+12:00
-description: Get Mum something she'll love this mother's day. A trip to Massage Me Day Spa
+description: Get Mum something she'll love this mother's day. A trip to Massage Eden
 author: Jenny K
 resources:
 - name: feature
@@ -33,4 +33,4 @@ Once again, we hope everyone is keeping safe and looking forward to Level 2. See
 
 Much love to you all,
 
-**Jenny and The Massage Me Day Spa team.**
+**Jenny and The Massage Eden team.**

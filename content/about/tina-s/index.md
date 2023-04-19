@@ -24,9 +24,9 @@ resources:
 
 'I enjoy massage that involves stretching the body. Like yoga, it is a great way to relax, refresh, and renew my energy.'
 
-## What do you like about working at Massage Me Day Spa?
+## What do you like about working at Massage Eden?
 
-'The team at Massage Me Day Spa is great to work with. We're all friendly and every day is a blessing. I'm really thankful I work here.'
+'The team at Massage Eden is great to work with. We're all friendly and every day is a blessing. I'm really thankful I work here.'
 
 ## What massage technique do you most recommend to your customers?
 

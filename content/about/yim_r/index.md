@@ -25,7 +25,7 @@ resources:
  
 'I don't really have a favourite type of massage. It all depends on what my body needs at that moment. but most of the time I find myself enjoying deep tissue or a relaxing massage.'
  
-### What do you like about working at Massage Me Day Spa?
+### What do you like about working at Massage Eden?
  
 'I appreciate the fact that is easy-going and flexible. If one of our staff has a problem, there is always someone to help. I enjoy the friendly atmosphere.'
  

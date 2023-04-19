@@ -10,7 +10,7 @@ resources:
     alt: Hot Stone.
 ---
 
-But there's still a chill in the air, and we know how demoralizing that can be. Here at Massage Me Day Spa, we're committed to helping you combat the Winter blues. So this month we have one last Winter-themed promotion for the year. To warm you up, and keep you pushing forward for one more month. Introducing the 'Warmer Winter' package!
+But there's still a chill in the air, and we know how demoralizing that can be. Here at Massage Eden, we're committed to helping you combat the Winter blues. So this month we have one last Winter-themed promotion for the year. To warm you up, and keep you pushing forward for one more month. Introducing the 'Warmer Winter' package!
 
 **Warmer Winter Package – $219**
 
@@ -26,8 +26,8 @@ To book the Warmer Winter package, follow the link below. Or purchase a gift vou
 
 We'd also like to take this opportunity to introduce a new staff member! Starting from the 5th, we'll have Alina joining the team. Alina is a passionate therapist who recently moved to Auckland from Nelson. If you're looking to try something new, we'd definitely recommend making a booking with her. You'll be able to do that via our website once she's joined the team.
 
-That's all we have for everyone this month. Wishing everyone all the best from all of us here at Massage Me Day Spa.
+That's all we have for everyone this month. Wishing everyone all the best from all of us here at Massage Eden.
 
 Much love,
 
-**– Jenny & the Team at Massage Me Day Spa**
+**– Jenny & the Team at Massage Eden**

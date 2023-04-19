@@ -24,11 +24,11 @@ So be sure to make the most of this promotion while it's available, if you'd lik
 
 ---
 
-Expect some new faces to start showing up at Massage Me Day Spa soon. We're still on the lookout for new staff.
+Expect some new faces to start showing up at Massage Eden soon. We're still on the lookout for new staff.
 
 As always, it's exciting bringing people on board. We always get to learn new things to better ourselves at what we do.
 
-If you're interested in working for Massage Me Day Spa, we have information on our website at here.
+If you're interested in working for Massage Eden, we have information on our website at here.
 
 That's all from us this month. Looking forward to seeing all of your beautiful faces in at the spa enjoying this month's promotion!
 
@@ -36,4 +36,4 @@ Have a great Valentines day.
 
 Much love,
 
-**— Jenny and the Team at Massage Me Day Spa**
+**— Jenny and the Team at Massage Eden**

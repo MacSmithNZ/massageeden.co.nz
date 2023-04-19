@@ -1,7 +1,7 @@
 ---
 title: "We're Open!"
 date: 2020-05-13T13:03:55+12:00
-description: Massage Me Day Spa will be opening it's doors from tomorrow and accepting new appointments.
+description: Massage Eden will be opening it's doors from tomorrow and accepting new appointments.
 author: Jenny K
 resources:
 - name: feature
@@ -47,4 +47,4 @@ Our thoughts go out to everyone who has been affected by the impact of COVID-19.
  
 Kind Regards,
 
-- **Jenny and Massage Me Day Spa Team**
+- **Jenny and Massage Eden Team**

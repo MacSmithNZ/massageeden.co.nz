@@ -28,11 +28,11 @@ If you're anything like us, you might be completely “over” the whole covid t
 Since we're fortunate enough to be living in a very low risk country, the likelihood of any of us contracting the virus is very low. Even so, we're doing everything we can to make sure you can visit us safely, and relax knowing that we're looking out for you.
 
 
-## 7 years of Massage Me Day Spa
+## 7 years of Massage Eden
 
 This month marks 7 years since we first opened our doors in 2013. Wow, does time fly! It's been a long journey, and we hope there will be many more years to come. So with that in mind, we have a very special promotion this month. Keep reading to find out more.
 
-*Happy Birthday Massage Me Day Spa!*
+*Happy Birthday Massage Eden!*
 
 ## It finally feels like Spring!
 
@@ -69,4 +69,4 @@ That's all from us this month!
 
 Wishing you all the best,
 
-**– Jenny & the team at Massage Me Day Spa**
+**– Jenny & the team at Massage Eden**

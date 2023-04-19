@@ -1,5 +1,5 @@
 ---
-title: "Thai Massage Specialists at Massage Me Day Spas"
+title: "Thai Massage Specialists at Massage Edens"
 date: 2020-03-11T03:30:10Z
 description: "For anyone who wants the best in Thai Massage without having to leave the country!"
 author: Bill S

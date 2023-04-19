@@ -1,6 +1,6 @@
 ---
 title: "Christmas Time at Massage Me"
-description: "Get the best that Massage Me Day Spa has to offer—for less! Our Christmas vouchers."
+description: "Get the best that Massage Eden has to offer—for less! Our Christmas vouchers."
 date: 2020-12-06T11:56:03+13:00
 author: Jenny K
 resources:
@@ -35,4 +35,4 @@ That's all from us this month. As always, thanks for keeping us in business! We 
 
 Much love,
 
-**— Jenny & the Team at Massage Me Day Spa**
+**— Jenny & the Team at Massage Eden**

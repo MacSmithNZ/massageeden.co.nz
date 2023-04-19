@@ -12,7 +12,7 @@ resources:
 
 There are some steps we're taking to make sure that our team, our premises, and our approach are following recommendations being made to ensure that we're doing everything we reasonably can to ensure everyone's health and well being.
 
-At the time of writing, we're fortunate enough here in NZ to be one of the countries in the world that are not experiencing any community transmission, but even so at Massage Me Day Spa, your wellbeing is our highest priority. Here are some of the things we're doing every day to keep our clients and employees happy and healthy.
+At the time of writing, we're fortunate enough here in NZ to be one of the countries in the world that are not experiencing any community transmission, but even so at Massage Eden, your wellbeing is our highest priority. Here are some of the things we're doing every day to keep our clients and employees happy and healthy.
 
 Here's what's happening…
 
