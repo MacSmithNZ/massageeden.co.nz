@@ -5,11 +5,11 @@ date: 2022-12-07T10:49:57+13:00
 draft: false
 ---
 
-### April Promotion
+### May Promotion
 
-**Easter Bliss - 75 Minutes**
+**Lucky Mum - 75 Minutes**
 
-The Easter Bliss promotion includes a 75-minute massage session, which combines 60 minutes of deep tissue massage with an additional 15 minutes of foot massage. Deep tissue massage is an excellent way to relieve muscle tension and soothe sore spots, while foot massage helps to improve circulation and promote relaxation.
+The Lucky Mum promotion consists of a 45-minute aromatherapy massage, followed by a 30-minute mini facial. The treatment is designed to provide the ultimate relaxation experience for your mother, and leave her feeling pampered and rejuvenated. The promotion is available at a discounted price of $139, which is a significant saving from the usual price of $169.
 
 **[Book now](/schedule-an-appointment/)**
 
