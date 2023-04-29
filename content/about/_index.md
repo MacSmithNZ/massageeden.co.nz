@@ -24,8 +24,6 @@ staff:
 
 ### About Massage Eden.
 
-Massage Eden is a new endeavor by the power team who operates [Massage Me Day Spa](https://massagemedayspa.co.nz/) in central Auckland.
-
 Jenny and Bill started Massage Me Day Spa in October 2013 as a way to enjoy themselves working together, in what is now becoming one of Auckland’s highly rated and popular Massage and Day Spa venues. With two convenient locations in Auckland CBD and Parnell, just a few minutes stroll from Britomart train station and Auckland Ferry Terminal.
 
 At Massage Eden we can promise you a range of treatments that cater to your every need. We focus on offering you value, improved health and well-being, whilst allowing you to relax and drift into a blissful state.
