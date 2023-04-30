@@ -3,15 +3,6 @@ title: "Policies"
 description: "Our spa policies."
 date: 2022-02-17T12:23:23+13:00
 ---
-
-## Our COVID-19 Procedures
-1. Please wear a face mask when entering or exiting the day spa.
-    - We encourage you to continue wearing your mask during your treatment as well but this isn’t compulsory.
-2. All clients have to be vaccinated and have their vaccine pass on hand for us to scan before their appointment may begin.
-    - If it’s your first time with us, please bring a valid form of I.D with you as well.
-3. Our staff members are all vaccinated and wear personal protection equipment throughout their work day so as to help keep everyone safe.
-4. If you start to experience COVID-19 symptoms or are a close contact to a case, please let our team know as soon as you can so that we can reschedule your appointment.
-
 ## Appointment Times
 Please be sure to arrive on time for your appointments as we unfortunately may need to shorten your treatment so as to not delay the clients booked in after you. We greatly appreciate your understanding.
 
