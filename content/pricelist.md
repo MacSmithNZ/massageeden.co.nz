@@ -5,11 +5,11 @@ date: 2022-12-07T10:49:57+13:00
 draft: false
 ---
 
-### May Promotion
+### June Promotion
 
-**Lucky Mum - 75 Minutes**
+**Early Bird - 60 Minutes**
 
-The Lucky Mum promotion consists of a 45-minute aromatherapy massage, followed by a 30-minute mini facial. The treatment is designed to provide the ultimate relaxation experience for your mother, and leave her feeling pampered and rejuvenated. The promotion is available at a discounted price of $139, which is a significant saving from the usual price of $169.
+Pamper yourself with Massage Eden's exclusive June promotion, offering an invigorating escape at an unbeatable price. Enjoy a rejuvenating one-hour massage, Monday to Friday, between 10:00AM and 12:00PM for just $99. Indulge in the soothing touch of our skilled therapists, relieving your stress and restoring your inner balance. This limited-time offer grants you a $20 discount off our regular price of $119, ensuring you start your day with ultimate relaxation and savings. Don't miss out on this incredible opportunity to treat yourself to an early bird massage experience at Massage Eden. Book now and embrace tranquility like never before.
 
 **[Book now](/schedule-an-appointment/)**
 
