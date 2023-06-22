@@ -1,0 +1,10 @@
+{{ define "main" }}
+{{ $img := (resources.GetMatch "images/263A0199.JPG").Fill "1920x1200 center" }}
+<div class="text-center py-12 px-4 flex justify-center bg-center bg-cover xl:py-32" style="background-image:url('{{ $img.RelPermalink }}')">
+    <div class="bg-white px-6 py-12">
+        <h1 class="font-body font-bold">{{ .Title }}</h1>
+        <div class="prose">{{ .Content }}</div>
+        <a class="btn btn-primary mt-8" href="/">Return home</a>
+    </div>
+</div>
+{{ end }}
