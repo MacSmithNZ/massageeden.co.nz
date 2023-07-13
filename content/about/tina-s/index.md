@@ -3,6 +3,7 @@ title: "Tina S"
 date: 2020-02-26T11:37:15+13:00
 description: With years of experience under her belt, Tina is one of our best therapists.
 position: Massage Therapist
+draft: true
 resources:
 - name: feature
   src: tina.jpg
