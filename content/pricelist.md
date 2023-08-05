@@ -5,11 +5,11 @@ date: 2022-12-07T10:49:57+13:00
 draft: false
 ---
 
-### July Promotion
+### August Promotion
 
-**Winter Aromatic Massage - 60 Minutes**
+**Take Back Control - 60 Minutes**
 
-Indulge in blissful relaxation this July with Massage Eden's Winter Aromatic Massage promotion. Treat yourself to an hour of pure tranquility and rejuvenation with our expertly crafted aromatherapy massage. Unwind as the soothing scents of essential oils envelop your senses, melting away stress and tension. For a limited time, experience this luxurious escape for only $109, a remarkable discount from the regular price of $134. Let our skilled therapists transport you to a world of ultimate serenity, where winter's chill is transformed into a warm embrace. Don't miss this opportunity to embrace winter wellness at Massage Eden.
+Experience bliss with Massage Eden's August promotion, "Take Back Control." Unwind in a 60-minute session of our unique fusion massage, where the best of east and west come together for ultimate relaxation. Indulge in the healing touch as Rotorua thermal mud is skilfully applied to your back, cleansing and detoxifying your skin, leaving you with a profound sense of tranquillity. Embrace this rejuvenating journey at an exclusive price of $119, down from the usual $139. Reclaim your well-being and embrace the harmony of mind and body with Massage Eden's exceptional offer. Book now and savour the serenity!
 
 **[Book now](/schedule-an-appointment/)**
 
