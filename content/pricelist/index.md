@@ -10,10 +10,10 @@ hero:
   span: Massage Eden Pricing
   h1: Our Pricelist
   p: Indulge in the ultimate relaxation experience with Massage Eden's affordable pricing. Discover our range of massage services and special packages designed to fit your budget.
+banner:
+  p: |-
+    At Massage Eden we offer a range of massage services designed to cater to your unique needs. Our skilled therapists are dedicated to providing you with an unforgettable experience, leaving you feeling refreshed and revitalized. Here are some of the massage services we offer.
 resources:
 - name: massage
   src: massage.jpg
 ---
-
-
-{{< pricelist >}}
