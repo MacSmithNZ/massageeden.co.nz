@@ -11,6 +11,8 @@ hero:
 resources:
 - name: pregnancy
   src: pregnancy.jpg
+  params:
+    alt: Pregnancy Massage.
 ---
 
 ### Experience Blissful Pregnancy with Our Specialized Pregnancy Massage

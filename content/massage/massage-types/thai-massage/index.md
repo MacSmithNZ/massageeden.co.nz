@@ -11,6 +11,8 @@ hero:
 resources:
 - name: thai
   src: thai.jpg
+  params:
+    alt: Thai Massage.
 ---
 
 Thai massage is an ancient system of massage developed in Thailand. Its origin is believed to have come from India, during the time of Buddha. Jīvaka, the physician to the Buddha, is said to have created the art of Thai massage. As Buddhism saw itself make its way into Thailand, the massage technique came with it. Traditional techniques were, and are still, widely used as a form of traditional healing.

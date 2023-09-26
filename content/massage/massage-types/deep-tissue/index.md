@@ -10,6 +10,8 @@ hero:
 resources:
 - name: deep tissue
   src: deep-tissue.jpg
+  params:
+    alt: Deep tissue massage
 ---
 
 ### Discover the Healing Power of Deep Tissue Massage

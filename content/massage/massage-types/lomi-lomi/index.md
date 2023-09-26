@@ -11,6 +11,8 @@ hero:
 resources:
 - name: lomi lomi
   src: lomi-lomi.jpg
+  alt:
+    params: Lomi Lomi Massage
 ---
 
 Lomi lomi is the ancient Hawaiian restorative healing system, of which one component is the art of compassionate touch. Lomi lomi also reflects the connection we have with the land, the spirit guides or ancestors and the breath of life.

@@ -11,6 +11,8 @@ hero:
 resources:
 - name: foot massage
   src: foot-massage.jpg
+  params:
+    alt: Oriental Foot Massage
 ---
 
 ### Experience Bliss with Our Oriental Foot Massage

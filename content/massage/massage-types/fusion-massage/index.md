@@ -11,6 +11,8 @@ hero:
 resources:
 - name: fusion
   src: fusion.jpg
+  params:
+    alt: Fusion Massage.
 ---
 
 ### Unwind with our Signature Fusion Massage

@@ -11,6 +11,8 @@ hero:
 resources:
 - name: eastern head
   src: eastern-head.jpg
+  params:
+    alt: Eastern Head Massage.
 ---
 
 ### Discover the Bliss of Eastern Head Massage at Massage Eden

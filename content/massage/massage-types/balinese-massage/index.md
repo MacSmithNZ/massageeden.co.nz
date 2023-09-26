@@ -11,6 +11,8 @@ hero:
 resources:
 - name: balinese
   src: balinese.jpg
+  params:
+    alt: Balinese Massage.
 ---
 
 Experience ultimate relaxation and rejuvenation with our exquisite Balinese Massage at Massage Eden. This ancient Indonesian healing tradition is renowned for its therapeutic benefits and deep connection to the body's energy pathways.

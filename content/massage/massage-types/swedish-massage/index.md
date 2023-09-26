@@ -11,6 +11,8 @@ hero:
 resources:
 - name: swedish
   src: swedish.jpg
+  params:
+    alt: Swedish Massage.
 ---
 
 Swedish massage is one of the most well known massage techniques practiced worldwide. At Massage Eden, our swedish massage focuses on gentle strokes that help with muscle relaxation throughout the body leaving you feeling relaxed and at ease. It’s the most ideal option for those of you looking to release all tension from within your body. This is accomplished by rubbing the muscles with long gliding strokes in the same direction as your blood flowing back to the heart. Swedish massage therapy is more than just relaxation. The improved circulation and increased flexibility resulting from the gentle technique helps to ease muscles, increasing oxygen levels in the blood and decreasing toxins.

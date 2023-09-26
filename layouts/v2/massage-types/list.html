@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+{{ partial "v2/hero" (dict "context" . "params" .Params.hero) }}
+
+<section class="bg-neutral-50 py-12 px-5 lg:py-20">
+    <div class="text-center lg:text-xl max-w-2xl mx-auto">
+        <p class="tracking-wide leading-relaxed">{{ .Params.banner }}</p>
+    </div>
+</section>
+
+<section class="lg:my-40">
+    <ul class="space-y-12 max-w-screen-2xl mx-auto lg:grid lg:grid-cols-2 lg:space-y-0 lg:gap-12">
+        {{ range $i, $e := .Pages }}
+        <li class="max-w-md mx-auto">
+            <div>
+                {{ $img := (.Resources.GetMatch "**").Resize "640x" }}
+                <img src="{{ $img.RelPermalink }}" alt="{{ $img.Params.alt }}">
+            </div>
+            <div class="px-5 py-12">
+                <h3>{{ .Title }}</h3>
+                <p>{{ .Description }}</p>
+                <a href="{{ .RelPermalink }}">Learn more</a>
+            </div>
+        </li>
+        {{ end }}
+    </ul>
+</section>
+
+{{ end }}
