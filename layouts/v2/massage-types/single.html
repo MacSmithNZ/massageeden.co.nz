@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+<article>
+  <header>
+    <div class="bg-primary-600 text-white text-sm px-5 py-2">
+        <a class="text-white underline" href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a> | 
+        <span>{{ .Title }}</span>
+    </div>
+    {{ partial "v2/hero.html" (dict "context" . "params" .Params.hero) }}
+  </header>
+  <section class="px-5 py-12 max-w-md mx-auto">
+    {{ .Content }}
+  </section>
+</article>
+
+{{ end }}

@@ -1,0 +1,28 @@
+{{ $img := "EMPTY" }}
+{{ $src := .params.img }}
+{{ if .context.Resources.GetMatch $src }}
+{{ $img = .context.Resources.GetMatch $src }}
+{{ else }}
+{{ $img = resources.GetMatch (print "images/" $src) }}
+{{ end }}
+
+{{ $context := .context }}
+
+{{ with .params }}
+<section class="bg-cover bg-center" style="background-image: url('{{ $img.RelPermalink }}')">
+    <div class="bg-neutral-900 bg-opacity-60 pt-12 lg:pt-0">
+        <div class="container">
+            <div class="text-white">
+                <div class="py-12 px-8 sm:max-w-md sm:mx-auto md:col-start-1 md:row-start-1 lg:py-40 lg:max-w-xl">
+                    <span class="block text-secondary-400 uppercase tracking-widest text-sm mb-4 lg:text-base">{{
+                        $context.Parent.Title
+                        }}</span>
+                    <h1>{{ .h1 }}</h1>
+                    <p>{{ .p }}</p>
+                    <a class="btn btn-alt" href="{{ $context.Site.Params.bookingLink }}">Book an Appointment</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
