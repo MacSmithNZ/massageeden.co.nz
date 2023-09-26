@@ -1,0 +1,76 @@
+{{ define "main" }}
+
+{{ partial "v2/hero" (dict "context" . "params" .Params.hero) }}
+
+{{ with .Params.banner}}
+<section class="bg-primary-600 text-white py-12 px-5 lg:py-20">
+    <div class="text-center max-w-2xl mx-auto">
+        <h3>{{ .h3 }}</h3>
+        <p>{{ .p }}</p>
+    </div>
+</section>
+{{ end }}
+
+{{ $siteResources := resources }}
+
+{{ with .Params.member_types }}
+<section class="px-5 my-12 lg:my-20 lg:max-w-6xl mx-auto">
+    <div>
+        <div>
+            <h3 class="mb-10">{{ .h3 }}</h3>
+        </div>
+        <ul class="lg:grid grid-cols-2 gap-8">
+            {{ range $i, $e := .items }}
+            <li
+                class="rounded rounded tr-xl shadow-lg h-full {{ if eq $i 1 }}bg-secondary-200{{ else }}bg-neutral-100 mb-10 lg:mb-0{{ end }}">
+                <div>
+                    {{ $img := ($siteResources.GetMatch (print "images/" .img)).Resize "740x" }}
+                    <img class="rounded-tr-xl" src="{{ $img.RelPermalink }}" alt="{{ $img.Params.alt }}">
+                </div>
+                <div class="px-5 py-10">
+                    <h4>{{ .h4 }}</h4>
+                    <p>{{ .p }}</p>
+                    <ul class="mb-12">
+                        {{ range .items }}
+                        <li class="italic list-disc ml-4">
+                            <p>{{ . }}</p>
+                        </li>
+                        {{ end }}
+                    </ul>
+                    <a class="btn {{ if eq $i 1 }}btn-dark-outline{{ else }}btn-primary{{ end }}"
+                        href="https://app.joinit.com/o/massageeden">{{ .a }}</a>
+                </div>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</section>
+{{ end }}
+
+{{ with .Params.why_join }}
+{{ $img := ($siteResources.GetMatch (print "images/IMG_7658.JPG")).Resize "1920x" }}
+<section class="bg-center bg-cover" style="background-image: url('{{ $img.RelPermalink }}')">
+    <div class="bg-neutral-900 bg-opacity-60">
+        <div class="px-5 py-12 lg:py-20 max-w-6xl mx-auto">
+            <div class="mb-12 text-white lg:max-w-2xl lg:text-center lg:mx-auto">
+                <h3>{{ .h3 }}</h3>
+                <p>{{ .p }}</p>
+            </div>
+            <ul class="lg:grid grid-cols-3 gap-8">
+                {{ range .items }}
+                <li class="bg-secondary-200 p-5 mb-5 rounded lg:mb-auto">
+                    <h4>{{ .h4 }}</h4>
+                    <p>{{ .p }}</p>
+                </li>
+                {{ end }}
+            </ul>
+            <div class="text-white mt-12 lg:mt-20 text-center tracking-wide max-w-2xl mx-auto">
+                <p class="text-xl">{{ .p2 }}</p>
+                <a class="btn btn-inverse mt-4" href="https://app.joinit.com/o/massageeden">Become a Member</a>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+
+{{ end }}
