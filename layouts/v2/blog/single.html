@@ -1,0 +1,50 @@
+{{ define "main" }}
+
+{{ partial "v2/hero" (dict "context" . "params" .Params.hero )}}
+
+<section class="py-12 px-5">
+    <article class="max-w-md mx-auto">
+        {{ .Content }}
+    </article>
+</section>
+
+
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "{{ .Title }}",
+      "wordcount": "{{ countwords .Content }}",
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ site.BaseURL }}{{ site.Params.logo_jpg }}"
+        }
+      },
+      "url": "{{ .RelPermalink }}",
+      "datePublished": "{{ .Date.Format $.Site.Params.time_format_default }}",
+      "dateModified": "{{ .Lastmod.Format $.Site.Params.time_format_default }}",
+      "description": "{{ .Description }}",
+      "articleBody": {{ plainify .Content }},
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ .RelPermalink }}"
+      },
+      "image": [
+        {{ $img := .Resources.GetMatch "**" }}
+        {{ $img = $img.Fill "1000x1000" }}
+        "{{ $img.RelPermalink }}",
+        {{ $img = $img.Fill "1200x900" }}
+        "{{ $img.RelPermalink }}",
+        {{ $img = $img.Fill "1600x900" }}
+        "{{ $img.RelPermalink }}"
+      ],
+      "author": {
+        "@type": "Person",
+        "name": "{{ .Params.author }}"
+      }
+    }
+  </script>
+{{ end }}
