@@ -1,0 +1,80 @@
+{{ define "main" }}
+
+{{ partial "v2/hero" (dict "context" . "params" .Params.hero)}}
+
+{{ $promotionPage := site.GetPage "/blog" }}
+{{ with $promotionPage }}
+{{ range last 1 .Pages }}
+<section class="py-12 px-5">
+    <div class="max-w-6xl mx-auto">
+        <div class="lg:grid grid-cols-2 gap-5">
+            {{ $resources := .Resources }}
+            {{ with .Params.hero }}
+            <div class="hidden lg:block">
+                {{ $img := ($resources.GetMatch .img).Resize "640x" }}
+                <img src="{{ $img.RelPermalink }}" alt="{{ $img.Params.alt }}">
+            </div>
+            <div class="max-w-lg mx-auto lg:my-auto">
+                <p class="tracking-widest text-sm uppercase">Monthly Promotion</p>
+                <h3 class="mt-0">{{ .h1 }}</h3>
+                <p>{{ .p }}</p>
+                {{ end }}
+                <p class="font-bold">
+                    <a href="{{ .RelPermalink }}">Learn more</a> or <a href="{{ $.Site.Params.bookingLink }}">Book
+                        Now</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+
+<section class="py-12 lg:px-12 bg-neutral-50">
+    <div class="max-w-6xl mx-auto">
+        <ul class="lg:grid grid-cols-2 gap-12">
+            {{ $siteResources := resources }}
+            {{ range $i, $e := .Site.Data.pricelist.all }}
+            {{ if eq $i 2 }}
+            <li class="pt-12 pb-8 lg:pt-0 lg:pb-0">
+                {{ $img := $siteResources.GetMatch "images/263A0219.JPG" }}
+                <img class="lg:h-full lg:rounded object-cover object-center" src="{{ $img.RelPermalink }}">
+            </li>
+            {{ else if eq $i 4 }}
+            <li class="pt-12 pb-8 lg:pt-0 lg:pb-0">
+                {{ $img := $siteResources.GetMatch "images/IMG_7659.JPG" }}
+                <img class="lg:h-full lg:rounded object-cover object-center" src="{{ $img.RelPermalink }}">
+            </li>
+            {{ else if eq $i 7 }}
+            <li class="pt-12 pb-8 lg:pt-0 lg:pb-0">
+                {{ $img := $siteResources.GetMatch "images/IMG_7619.JPG" }}
+                <img class="lg:h-full lg:rounded object-cover object-center" src="{{ $img.RelPermalink }}">
+            </li>
+            {{ end }}
+            <li class="px-5 py-12 max-w-lg lg:max-w-2xl w-full mx-auto lg:border rounded lg:bg-white">
+                <h3 class="mt-4 lg:mt-0">{{ .title }}</h3>
+                <table class="text-left w-full">
+                    <thead>
+                        <tr>
+                            <th>Service</th>
+                            <th class="pr-4">Minutes</th>
+                            <th>Price</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {{ range .items }}
+                        <tr>
+                            <td class="pt-4 w-full">{{ .name }}</td>
+                            <td class="pt-4 pr-4">{{ with .time }}{{ . }}mins{{ else }}N/A {{ end }}</td>
+                            <td class="pt-4">${{ .price }}</td>
+                        </tr>
+                        {{ end }}
+                    </tbody>
+                </table>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</section>
+
+{{ end }}
