@@ -49,17 +49,17 @@
             {{ range $i, $e := .Site.Data.pricelist.all }}
             {{ if eq $i 2 }}
             <li class="pt-12 pb-8 lg:pt-0 lg:pb-0">
-                {{ $img := $siteResources.GetMatch "images/263A0219.JPG" }}
+                {{ $img := ($siteResources.GetMatch "images/263A0219.JPG").Resize "740x" }}
                 <img class="lg:h-full lg:rounded object-cover object-center" src="{{ $img.RelPermalink }}">
             </li>
             {{ else if eq $i 4 }}
             <li class="pt-12 pb-8 lg:pt-0 lg:pb-0">
-                {{ $img := $siteResources.GetMatch "images/IMG_7659.JPG" }}
+                {{ $img := ($siteResources.GetMatch "images/IMG_7659.JPG").Resize "740x" }}
                 <img class="lg:h-full lg:rounded object-cover object-center" src="{{ $img.RelPermalink }}">
             </li>
             {{ else if eq $i 7 }}
             <li class="pt-12 pb-8 lg:pt-0 lg:pb-0">
-                {{ $img := $siteResources.GetMatch "images/IMG_7619.JPG" }}
+                {{ $img := ($siteResources.GetMatch "images/IMG_7619.JPG").Resize "740x" }}
                 <img class="lg:h-full lg:rounded object-cover object-center" src="{{ $img.RelPermalink }}">
             </li>
             {{ end }}
