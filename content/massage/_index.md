@@ -43,7 +43,7 @@ row_2:
 banner_3:
   a_is_button: true
   no_margin: true
-  h2: Looing to try something new?
+  h2: Looking to try something new?
   p: Just when you thought it couldn’t get any better. Add our enhancements to your massage for even more benefits. Go ahead, you deserve it.
   a: See massage enhancements
   a_href: /massage/massage-enhancements/
