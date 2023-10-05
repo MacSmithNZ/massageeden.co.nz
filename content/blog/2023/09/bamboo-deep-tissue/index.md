@@ -1,15 +1,16 @@
 ---
 title: "September Bamboo Deep Tissue Massage Promotion"
+date: 2023-09-05T14:25:46+13:00
 type: "v2/blog"
 description: "Experience deep relaxation with our September promotion at Massage Eden. Enjoy a 60-minute Bamboo Deep Tissue Massage for just $119 (originally $139). Discover the power of bamboo massage to release stress, relax, unwind, and rejuvenate. Book now and indulge in a therapeutic relaxation experience like no other. Offer valid throughout September."
 hero:
   span: September promotion
-  img: bamboo
+  img: feature
   h1: Bamboo Deep Tissue Massage
   p: |-
     Experience deep relaxation with our September promotion at Massage Eden. Enjoy a 60-minute Bamboo Deep Tissue Massage for just $119 (originally $139). Discover the power of bamboo massage to release stress, relax, unwind, and rejuvenate. Book now and indulge in a therapeutic relaxation experience like no other. Offer valid throughout September.
 resources:
-- name: bamboo
+- name: feature
   src: bamboo-promotion.jpg
   params:
     alt: Bamboo Deep Tissue massage.

@@ -1,12 +1,17 @@
 {{ define "main" }}
 
-{{ partial "v2/hero" (dict "context" . "params" .Params.hero )}}
-
-<section class="py-12 px-5">
-    <article class="max-w-md mx-auto">
-        {{ .Content }}
-    </article>
-</section>
+<article>
+  <header>
+    <div class="bg-primary-600 text-white text-sm px-5 py-2">
+        <a class="text-white underline capitalize" href="{{ .Parent.RelPermalink }}">{{ .Parent.Section }}</a> | 
+        <span>{{ .Title }}</span>
+    </div>
+    {{ partial "v2/hero.html" (dict "context" . "params" .Params.hero) }}
+  </header>
+  <section class="px-5 py-12 max-w-md mx-auto prose">
+    {{ .Content }}
+  </section>
+</article>
 
 
 <script type="application/ld+json">
