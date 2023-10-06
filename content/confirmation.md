@@ -1,5 +1,5 @@
 ---
-title: "Booking Confirmed"
+title: "Booking Requested"
 date: 2023-06-22T12:59:11+12:00
 layout: confirmation
 ---
