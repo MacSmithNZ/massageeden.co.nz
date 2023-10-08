@@ -2,6 +2,7 @@
 title: "Celebrate Our 10th Anniversary with a Special October Promotion!"
 date: 2023-10-05T14:25:46+13:00
 draft: false
+promotion: true
 type: "v2/blog"
 description: "Join us in celebrating Massage Eden's 10th anniversary this October! Enjoy a 10% discount on all services booked with promo code HBD10TH throughout the month. Book now and experience relaxation like never before."
 hero:

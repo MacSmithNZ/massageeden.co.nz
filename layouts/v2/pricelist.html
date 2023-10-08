@@ -4,7 +4,7 @@
 
 {{ $promotionPage := site.GetPage "/blog" }}
 {{ with $promotionPage }}
-{{ range first 1 .Pages }}
+{{ range first 1 (where (where .Pages "Section" "blog") "Params.promotion" true) }}
 <section class="py-12 px-5">
     <div class="max-w-6xl mx-auto">
         <div class="lg:grid grid-cols-2 gap-5">
