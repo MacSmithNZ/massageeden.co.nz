@@ -25,14 +25,14 @@ member_types:
   items:
   - img: WING5021.jpg
     h4: Standard Membership
-    p: "For those looking for an affordable way to prioritize self-care, our Standard Membership is the perfect choice. Priced at just $89 per month, you'll enjoy exclusive benefits that include:"
+    p: "For those looking for an affordable way to prioritize self-care, our Standard Membership is the perfect choice. Priced at just $99 per month, you'll enjoy exclusive benefits that include:"
     items:
     - One free 60-minute massage session every month (a $119 value).
     - A generous 10% discount on all other services booked, allowing you to customize your wellness journey.
     a: Become a Standard Member
   - img: WING5579.jpg
     h4: Gold Membership
-    p: "For the ultimate indulgence and relaxation, our Gold Membership is the way to go. Priced at $169 per month, it includes:"
+    p: "For the ultimate indulgence and relaxation, our Gold Membership is the way to go. Priced at $199 per month, it includes:"
     items:
     - Two free 60-minute massage sessions every month, or one free couples massage session (a $229 value).
     - An exclusive 15% discount on all services booked, so you can experience our diverse range of treatments.
@@ -58,14 +58,14 @@ Are you ready to elevate your self-care routine? We are thrilled to introduce ou
 
 ### Standard Membership
 
-Our Standard Membership is perfect for those looking to experience the benefits of regular massages at an affordable price. For just $89 per month, you'll receive:
+Our Standard Membership is perfect for those looking to experience the benefits of regular massages at an affordable price. For just $99 per month, you'll receive:
 
 - One free 60-minute massage session every month (a $119 value).
 - A generous 10% discount on all other services booked, allowing you to customize your wellness journey.
 
 ### Gold Membership
 
-For the ultimate indulgence and relaxation, our Gold Membership is the way to go. Priced at $169 per month, it includes:
+For the ultimate indulgence and relaxation, our Gold Membership is the way to go. Priced at $199 per month, it includes:
 
 - Two free 60-minute massage sessions every month, or one free couples massage session (a $229 value).
 - An exclusive 15% discount on all services booked, so you can experience our diverse range of treatments.
