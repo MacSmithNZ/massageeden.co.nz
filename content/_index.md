@@ -18,8 +18,8 @@ row:
   p: At Massage Eden Auckland & Rotorua, we promise you a range of treatments that cater to your every need. We focus on providing you value, improved health and well-being; whilst allowing you to relax and drift into a blissful state
   a_1: Book online
   a_1_href: /schedule-an-appointment/
-  a_2: Learn about massage
-  a_2_href: /massage/massage-types/
+  a_2: De Luxe at Pullman
+  a_2_href: /deluxe/
 banner_1:
   h2: “Relax, unwind and invest some well deserved time in yourself at Massage Eden.”
 cards:

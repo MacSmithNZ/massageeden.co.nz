@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+{{ partial "v2/hero" (dict "context" . "params" .Params.hero) }}
+
+<div class="max-w-xl prose mx-auto my-12">
+{{ .Content }}
+</div>
+
+{{ end }}
