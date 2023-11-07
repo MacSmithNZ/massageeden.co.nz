@@ -26,11 +26,11 @@ We are thrilled to announce a luxurious addition to our services at Massage Eden
 
 ### Your Personal Oasis
 
-Our qualified male and female therapists will arrive at your room fully equipped, including a massage table and all the necessary tools for your treatment. They will consult with you to understand your preferences and needs, ensuring a personalized and enjoyable experience.
+Our qualified therapists will arrive at your room fully equipped, including a massage table and all the necessary tools for your treatment. They will consult with you to understand your preferences and needs, ensuring a personalized and enjoyable experience.
 
 ### Expertise You Can Trust
 
-At Eden Spa Express, our therapists are not only highly skilled but also fully qualified. Before joining our team, they undergo rigorous in-house training to guarantee the highest level of service. Rest assured, our focus is on your well-being, and we maintain a strictly non-sexual service policy.
+At Massage Eden De Luxe, our therapists are not only highly skilled but also fully qualified. Before joining our team, they undergo rigorous in-house training to guarantee the highest level of service. Rest assured, our focus is on your well-being, and we maintain a strictly non-sexual service policy.
 
 {{< image src="mobile massage" >}}
 
