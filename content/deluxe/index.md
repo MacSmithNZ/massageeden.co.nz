@@ -9,35 +9,42 @@ hero:
   h1: In-room service at Pullman Rotorua
   p: Indulge in the ultimate relaxation experience with Massage Eden's 'De Luxe' in-room service at Pullman Hotel Rotorua.
   img: deluxe.jpg
+resources:
+- src: mobile-massage-therapist.jpg
+  name: mobile massage
+  params:
+    alt: Mobile massage service.
 ---
 
-## Introducing Massage Eden 'De Luxe' In-Room Service at Pullman Hotel Rotorua
+## Introducing Massage Eden 'De Luxe'
 
-Massage Eden is excited to announce the launch of our exclusive in-room service at the luxurious Pullman Hotel Rotorua. We are thrilled to introduce the Massage Eden 'De Luxe' experience, designed to take your relaxation to the next level.
+We are thrilled to announce a luxurious addition to our services at Massage Eden - the all-new "De Luxe" in-room service, exclusively available at the Pullman Hotel Rotorua. We understand the importance of relaxation and rejuvenation, and now, you can experience the epitome of bliss within the comfort of your own room.
 
-**What is Massage Eden 'De Luxe'?**
+### The Ultimate Indulgence
 
-Our 'De Luxe' in-room service at Pullman Hotel Rotorua is tailored to provide you with the ultimate massage experience. Whether you're travelling for leisure or business, there's no better way to unwind and rejuvenate than with a professional massage delivered right to your hotel room.
+**Massage Eden 'De Luxe'** offers a 1-hour massage for just $169 and a 1-hour couples massage for $338. This exclusive service is designed to provide you with the ultimate in relaxation and pampering, right at your fingertips.
 
-**Pricing:**
+### Your Personal Oasis
 
-- 1-Hour Individual Massage: $169
-- 1-Hour Couples Massage: $338
+Our qualified male and female therapists will arrive at your room fully equipped, including a massage table and all the necessary tools for your treatment. They will consult with you to understand your preferences and needs, ensuring a personalized and enjoyable experience.
 
-**Why Choose Massage Eden 'De Luxe'?**
+### Expertise You Can Trust
 
-1. **Convenience**: We come to you, so you can enjoy the massage in the comfort of your hotel room, without the need to travel.
+At Eden Spa Express, our therapists are not only highly skilled but also fully qualified. Before joining our team, they undergo rigorous in-house training to guarantee the highest level of service. Rest assured, our focus is on your well-being, and we maintain a strictly non-sexual service policy.
 
-2. **Luxury**: The Pullman Hotel Rotorua is renowned for its opulence, and our 'De Luxe' service complements this with high-quality massage therapies.
+{{< image src="mobile massage" >}}
 
-3. **Personalized Experience**: Our skilled therapists will tailor the massage to your specific needs, ensuring you leave feeling relaxed and revitalized.
+### How to Book
 
-4. **Couples Retreat**: Share the experience with a loved one with our couples massage option, a perfect way to bond and unwind together.
+To make your reservation for this extraordinary experience, please reach out to our friendly booking team. They will guide you in selecting the perfect package and therapist to suit your specific requirements. Please note that we require a minimum of 2 hours' notice to accommodate travel time, subject to availability.
 
-5. **Peace of Mind**: Rest easy knowing you're in the capable hands of certified therapists with extensive experience.
+- In the event of a cancellation less than one hour prior to the appointment, a 100% cancellation fee will be charged to your room.
+- A 15% surcharge applies on New Zealand public holidays.
 
-Don't miss the opportunity to elevate your stay at the Pullman Hotel Rotorua with the Massage Eden 'De Luxe' in-room service. Book your session today for an unforgettable relaxation experience.
+For bookings, you can contact the hotel reception or get in touch with us directly through our website or phone number.
 
-For reservations and inquiries, please [book online](/schedule-an-appointment) or reach out to the Pullman Hotel Rotorua front desk.
+Experience the ultimate in relaxation and rejuvenation with Massage Eden 'De Luxe' at the Pullman Hotel Rotorua. It's time to pamper yourself like never before!
 
-Experience the epitome of relaxation with Massage Eden 'De Luxe' at Pullman Hotel Rotorua.
+---
+
+*Please note that Massage Eden 'De Luxe' is an exclusive in-room service available only at the Pullman Hotel Rotorua. Prices mentioned are subject to change, and availability may vary.*
