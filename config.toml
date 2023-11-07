@@ -3,6 +3,7 @@ languageCode = "en-nz"
 title = "Massage Eden"
 enableRobotsTXT = true
 disableKinds = ["taxonomy", "term"]
+timeout = "60s"
 
 [build]
 writeStats = true
