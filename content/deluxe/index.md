@@ -1,6 +1,6 @@
 ---
 title: "De Luxe In-Room Service at Pullman"
-description: "Indulge in the ultimate relaxation experience with Massage Eden's 'De Luxe' in-room service at Pullman Hotel Rotorua. Enjoy a 1-hour massage for $169 or a couples massage for $338 in the comfort of your luxurious hotel room. Book your session today."
+description: "Indulge in the ultimate relaxation experience with Massage Eden's 'De Luxe' in-room service at Pullman Hotel Rotorua. Enjoy a 1-hour massage for $169 or a couples massage for $319 in the comfort of your luxurious hotel room. Book your session today."
 layout: deluxe
 date: 2023-11-06T10:44:40+13:00
 draft: false
@@ -9,6 +9,8 @@ hero:
   h1: In-room service at Pullman Rotorua
   p: Indulge in the ultimate relaxation experience with Massage Eden's 'De Luxe' in-room service at Pullman Hotel Rotorua.
   img: deluxe.jpg
+  a: Book an Appointment
+  a_href: https://bookings.gettimely.com/massageeden/bb/book?location=308197
 resources:
 - src: mobile-massage-therapist.jpg
   name: mobile massage
@@ -22,7 +24,7 @@ We are thrilled to announce a luxurious addition to our services at Massage Eden
 
 ### The Ultimate Indulgence
 
-**Massage Eden 'De Luxe'** offers a 1-hour massage for just $169 and a 1-hour couples massage for $338. This exclusive service is designed to provide you with the ultimate in relaxation and pampering, right at your fingertips.
+**Massage Eden 'De Luxe'** offers a 1-hour massage for just $169 and a 1-hour couples massage for $319. This exclusive service is designed to provide you with the ultimate in relaxation and pampering, right at your fingertips.
 
 ### Your Personal Oasis
 
@@ -30,7 +32,7 @@ Our qualified therapists will arrive at your room fully equipped, including a ma
 
 ### Expertise You Can Trust
 
-At Massage Eden De Luxe, our therapists are not only highly skilled but also fully qualified. Before joining our team, they undergo rigorous in-house training to guarantee the highest level of service. Rest assured, our focus is on your well-being, and we maintain a strictly non-sexual service policy.
+At Massage Eden De Luxe, our therapists are not only highly skilled but also fully qualified. Before joining our team, they undergo rigorous in-house training to guarantee the highest level of service. Rest assured, our focus is on your well-being, and we maintain **a strictly non-sexual service policy.**
 
 {{< image src="mobile massage" >}}
 
