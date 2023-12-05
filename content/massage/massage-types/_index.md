@@ -3,6 +3,11 @@ title: "Types of Massage"
 type: "v2/massage-types"
 description: No matter what type of massage you prefer, Massage Eden will help you re-energize and recharge. Learn about the types of massages we offer today.
 date: 2021-05-17T14:49:08+12:00
+menu:
+  main:
+    weight: 2
+    parent: Massage
+    name: Types of Massage
 hero:
   span: Types of Massage
   img: WING5021.jpg

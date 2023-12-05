@@ -3,16 +3,27 @@
   <div class="px-5 py-4 flex items-center">
     <a href="{{ .Site.Home.RelPermalink }}" title="Home">
       {{ if eq .Params.fixed_header true }}
-      <img alt="Massage Eden logo in white" class="logo-white h-10 md:hidden" src='{{ (resources.GetMatch "logo/logo-white.svg").RelPermalink }}'>
+      <img alt="Massage Eden logo in white" class="logo-white h-10 md:hidden"
+        src='{{ (resources.GetMatch "logo/logo-white.svg").RelPermalink }}'>
       {{ end }}
-      <img alt="Massage Eden logo" class="{{ if ne .Params.fixed_header true }}inline-block{{ end }} logo-main h-10 md:inline-block"
+      <img alt="Massage Eden logo"
+        class="{{ if ne .Params.fixed_header true }}inline-block{{ end }} logo-main h-10 md:inline-block"
         src='{{ (resources.GetMatch "logo/logo.svg").RelPermalink }}'>
     </a>
     <div class="hidden ml-auto lg:block">
       <ul class="flex space-x-4 text-sm uppercase tracking-wide">
         {{ range .Site.Menus.main }}
-        <li class="leading-none">
+        <li class="leading-none {{ if .Children }}has-children{{ end }}">
           <a class="text-neutral-900" href="{{ .URL }}">{{ .Name }}</a>
+          {{ with .Children }}
+          <ul class="py-4 absolute bg-white px-5 shadow-sm" style="margin-left:-1.25rem;">
+            {{ range . }}
+            <li>
+              <a class="text-neutral-900 py-2 block" href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+          </ul>
+          {{ end }}
         </li>
         {{ end }}
       </ul>
@@ -31,6 +42,15 @@
         {{ range .Site.Menus.main }}
         <li>
           <a href="{{ .URL }}">{{ .Name }}</a>
+          {{ with .Children }}
+          <ul class="ml-4">
+            {{ range . }}
+            <li>
+              <a class="text-neutral-900" href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+          </ul>
+          {{ end }}
         </li>
         {{ end }}
       </ul>

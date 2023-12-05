@@ -5,6 +5,11 @@ layout: "pricelist"
 description: "Massage Eden's services cover a range of different areas. See our pricelist here."
 date: 2022-12-07T10:49:57+13:00
 draft: false
+menu:
+  main:
+    weight: 1
+    parent: Massage
+    name: Pricelist
 hero:
   img: massage
   span: Massage Eden Pricing

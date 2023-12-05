@@ -21,3 +21,11 @@
 #site-nav .bars {
   color: theme('colors.white');
 }
+
+#site-nav .has-children ul {
+  display: none;
+}
+
+#site-nav .has-children:hover ul {
+  display: block;
+}
