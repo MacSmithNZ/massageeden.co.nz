@@ -10,7 +10,7 @@ hero:
   p: Choose your location, then use our online booking tool to make your appointment—hassle free.
   a: Schedule an appointment
   links:
-  - a_href: https://bookings.gettimely.com/massagemedayspa/bb/book
+  - a_href: https://bookings.gettimely.com/massageeden9/bb/book
     a: Auckland
   - a_href: https://bookings.gettimely.com/massageeden/bb/book
     a: Rotorua
