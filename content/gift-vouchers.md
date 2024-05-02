@@ -13,9 +13,9 @@ hero:
   p: Merry Christmas! Happy Birthday! Congratulations! Thank You! With so many healthy benefits, a Massage Eden gift voucher is the perfect idea for any occasion.
   links:
   - a: Auckland CBD
-    a_href: https://bookings.gettimely.com/massagemedayspa/bb/purchase
+    a_href: https://bookings.gettimely.com/massageeden9/bb/purchase
   - a: Parnell
-    a_href: https://bookings.gettimely.com/massagemedayspa/bb/purchase
+    a_href: https://bookings.gettimely.com/massageeden9/bb/purchase
   - a: Rotorua
     a_href: https://bookings.gettimely.com/massageeden/bb/purchase
   - a: All locations
