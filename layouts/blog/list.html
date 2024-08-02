@@ -5,13 +5,16 @@
     <ul class="sm:grid grid-cols-2 gap-5 max-w-screen-lg mx-auto mb-12">
         {{ range (.Paginator 10).Pages }}
         {{ $img := resources.GetMatch "images/263A0195.JPG" }}
+        {{ with resources.GetMatch (print "images/uploads/" .Params.hero.img) }}
+        {{ $img = . }}
+        {{ end }}
         {{ with .Resources.GetMatch "feature" }}
         {{ $img = . }}
         {{ end }}
         {{ $img := $img.Fill "650x400 center" }}
         <li class="bg-neutral-50 my-5 sm:my-0">
             <a href="{{ .RelPermalink }}">
-                <img src="{{ $img.RelPermalink }}" alt="{{ $img.Params.alt }}">
+                <img src="{{ $img.RelPermalink }}" alt="{{ .Params.hero.alt }}">
             </a>
             <div class="p-5">
                 <a href="{{ .RelPermalink }}">
