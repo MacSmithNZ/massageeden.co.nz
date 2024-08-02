@@ -22,7 +22,7 @@ collections:
     widget: "object"
     fields:
     - {label: "Span", name: "span", widget: "string"}
-    - {label: "Image", name: "img", widget: "image", media_folder: "/assets/images/uploads"}
+    - {label: "Image", name: "img", widget: "image", media_folder: "/assets/images/uploads", public_folder: ""}
     - {label: "Alt Text", name: "alt", widget: "string"}
     - {label: "Header", name: "h1", widget: "string"}
     - {label: "Text", name: "p", widget: "text"}
@@ -45,7 +45,7 @@ collections:
     widget: "object"
     fields:
     - {label: "Span", name: "span", widget: "string"}
-    - {label: "Image", name: "img", widget: "image", media_folder: "/assets/images/uploads"}
+    - {label: "Image", name: "img", widget: "image", media_folder: "/assets/images/uploads", public_folder: ""}
     - {label: "Alt Text", name: "alt", widget: "string"}
     - {label: "Header", name: "h1", widget: "string"}
     - {label: "Text", name: "p", widget: "text"}
