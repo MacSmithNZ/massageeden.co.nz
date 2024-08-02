@@ -1,7 +1,7 @@
 ---
 title: The Effect Massage Has On Your Body
 description: While we all know that massage therapy feels good, not everyone knows that it’s actually good for you too!
-date: 2024-08-02T18:23:00.000Z
+date: 2024-08-02T18:23:00+12:00
 draft: false
 promotion: false
 type: v3/blog
