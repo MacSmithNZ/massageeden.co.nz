@@ -26,6 +26,7 @@ collections:
     - {label: "Alt Text", name: "alt", widget: "string"}
     - {label: "Header", name: "h1", widget: "string"}
     - {label: "Text", name: "p", widget: "text"}
+  - {label: "Content", name: "body", widget: "markdown"}
 - name: "promotion" # Used in routes, e.g., /admin/collections/blog
   label: "Promotion"
   folder: "blog" # The path to the folder where the documents are stored
@@ -37,8 +38,8 @@ collections:
   - {label: "Description", name: "description", widget: "string"}
   - {label: "Date", name: "date", widget: "hidden", default: "{{date}}"}
   - {label: "Draft", name: "draft", widget: "boolean", default: true}
-  - {label: "Promotion", name: "promotion", widget: "hidden", default: true}
   - {label: "Type", name: "type", widget: "hidden", default: "v3/blog"}
+  - {label: "Promotion", name: "promotion", widget: "hidden", default: true}
   - label: "Hero"
     name: "hero"
     widget: "object"
@@ -48,4 +49,5 @@ collections:
     - {label: "Alt Text", name: "alt", widget: "string"}
     - {label: "Header", name: "h1", widget: "string"}
     - {label: "Text", name: "p", widget: "text"}
+  - {label: "Content", name: "body", widget: "markdown"}
     
