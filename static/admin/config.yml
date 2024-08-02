@@ -1,0 +1,51 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: "assets/images/uploads"
+public_folder: "/images/uploads"
+collections:
+- name: "blog" # Used in routes, e.g., /admin/collections/blog
+  label: "Blog"
+  folder: "blog" # The path to the folder where the documents are stored
+  path: "{{year}}/{{month}}/{{slug}}"
+  create: true # Allow users to create new documents in this collection
+  filter: {field: "promotion", value: false}
+  fields: # The fields for each document, usually in front matter
+  - {label: "Title", name: "title", widget: "string"}
+  - {label: "Description", name: "description", widget: "string"}
+  - {label: "Date", name: "date", widget: "hidden", default: "{{date}}"}
+  - {label: "Draft", name: "draft", widget: "boolean", default: true}
+  - {label: "Promotion", name: "promotion", widget: "hidden", default: false}
+  - {label: "Type", name: "type", widget: "hidden", default: "v3/blog"}
+  - label: "Hero"
+    name: "hero"
+    widget: "object"
+    fields:
+    - {label: "Span", name: "span", widget: "string"}
+    - {label: "Image", name: "img", widget: "image"}
+    - {label: "Alt Text", name: "alt", widget: "string"}
+    - {label: "Header", name: "h1", widget: "string"}
+    - {label: "Text", name: "p", widget: "text"}
+- name: "promotion" # Used in routes, e.g., /admin/collections/blog
+  label: "Promotion"
+  folder: "blog" # The path to the folder where the documents are stored
+  path: "{{year}}/{{month}}/{{slug}}"
+  create: true # Allow users to create new documents in this collection
+  filter: {field: "promotion", value: true}
+  fields: # The fields for each document, usually in front matter
+  - {label: "Title", name: "title", widget: "string"}
+  - {label: "Description", name: "description", widget: "string"}
+  - {label: "Date", name: "date", widget: "hidden", default: "{{date}}"}
+  - {label: "Draft", name: "draft", widget: "boolean", default: true}
+  - {label: "Promotion", name: "promotion", widget: "hidden", default: true}
+  - {label: "Type", name: "type", widget: "hidden", default: "v3/blog"}
+  - label: "Hero"
+    name: "hero"
+    widget: "object"
+    fields:
+    - {label: "Span", name: "span", widget: "string"}
+    - {label: "Image", name: "img", widget: "image"}
+    - {label: "Alt Text", name: "alt", widget: "string"}
+    - {label: "Header", name: "h1", widget: "string"}
+    - {label: "Text", name: "p", widget: "text"}
+    

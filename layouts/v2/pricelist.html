@@ -8,11 +8,10 @@
 <section class="py-12 px-5">
     <div class="max-w-6xl mx-auto">
         <div class="lg:grid grid-cols-2 gap-5">
-            {{ $resources := .Resources }}
             {{ with .Params.hero }}
             <div class="hidden lg:block">
-                {{ $img := ($resources.GetMatch .img).Resize "640x" }}
-                <img src="{{ $img.RelPermalink }}" alt="{{ $img.Params.alt }}">
+                {{ $img := (resources.GetMatch (print "images/uploads/" .img)).Resize "640x" }}
+                <img src="{{ $img.RelPermalink }}" alt="{{ .alt }}">
             </div>
             <div class="max-w-lg mx-auto lg:my-auto">
                 <p class="tracking-widest text-sm uppercase">Monthly Promotion</p>

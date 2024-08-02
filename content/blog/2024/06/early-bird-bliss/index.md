@@ -4,18 +4,14 @@ description: "Enjoy $20 off your 60-minute Body Massage at Massage Eden with our
 date: 2024-06-06T15:15:15+12:00
 draft: false
 promotion: true
-type: "v2/blog"
+type: "v3/blog"
 hero:
   span: June promotion
-  img: feature
+  img: relaxation.jpg
+  alt: Woman relaxing.
   h1: Unwind with Massage Eden’s June Promotion!
   p: |-
     Winter is the perfect season to indulge in some much-needed self-care, and Massage Eden is here to help you embrace the chill with warmth and relaxation. This June, we're excited to offer our exclusive Early Bird Body Massage promotion, designed to rejuvenate your body and soothe your mind during the colder months.
-resources:
-- name: feature
-  src: relaxation.jpg
-  params:
-    alt: Relaxing on sofa.
 ---
 
 From now until the end of June, take advantage of our Early Bird Body Massage offer and enjoy a 60-minute session for just $99 – that's a fantastic $20 off the regular price! This special promotion is available for bookings between 10AM and 12PM, Monday through Friday. It's the ideal opportunity to start your day with a revitalizing experience that will leave you feeling refreshed and ready to conquer the rest of your day.
