@@ -7,6 +7,7 @@ collections:
 - name: "blog" # Used in routes, e.g., /admin/collections/blog
   label: "Blog"
   folder: "/content/blog" # The path to the folder where the documents are stored
+  slug: "index.md"
   path: "{{year}}/{{month}}/{{slug}}"
   create: true # Allow users to create new documents in this collection
   filter: {field: "promotion", value: false}
@@ -30,6 +31,7 @@ collections:
 - name: "promotion" # Used in routes, e.g., /admin/collections/blog
   label: "Promotion"
   folder: "blog" # The path to the folder where the documents are stored
+  slug: "index.md"
   path: "{{year}}/{{month}}/{{slug}}"
   create: true # Allow users to create new documents in this collection
   filter: {field: "promotion", value: true}
