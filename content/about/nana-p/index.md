@@ -5,9 +5,9 @@ description: Nana has been educated as a professional spa therapist in Australia
 position: Head Therapist
 resources:
 - name: feature
-  src: placeholder.png
+  src: placeholder.jpg
 - name: headshot
-  src: headshot.png
+  src: headshot.jpg
   params:
     alt: Nana P
 ---

@@ -5,9 +5,9 @@ description: Arti is a professional massage therapist from Fiji who has more tha
 position: Massage Therapist
 resources:
 - name: feature
-  src: placeholder.png
+  src: placeholder.jpg
 - name: headshot
-  src: headshot.png
+  src: headshot.jpg
   params:
     alt: Arti C
 ---
