@@ -21,4 +21,4 @@ For October only, you can enjoy the Bamboo Bliss package at a special price. Ori
 
 Book your appointment today and give yourself the gift of relaxation with Massage Eden's Bamboo Bliss package — your body will thank you!
 
-Don’t miss out on this limited-time offer. Call us or book online now at (massageeden.co.nz)[https://massageeden.co.nz/schedule-an-appointment/] to reserve your spot!
+Don’t miss out on this limited-time offer. Call us or book online now at [massageeden.co.nz](https://massageeden.co.nz/schedule-an-appointment/) to reserve your spot!
