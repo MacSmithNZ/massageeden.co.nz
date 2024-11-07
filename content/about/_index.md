@@ -33,3 +33,7 @@ At Massage Eden we can promise you a range of treatments that cater to your ever
 Our therapists – It’s the best reason to come to Massage Eden.
 
 It’s not easy for us to get therapists that meet the standards that we set for ourselves. We look for good technical knowledge and ability, coupled with positive energy and outlook, together with a self-passion to keep improving.
+
+### Join Our Team at Massage Eden
+
+At Massage Eden, we are driven by a passion for wellness, relaxation, and helping our clients feel their absolute best. We believe that creating an exceptional experience begins with our team, which is why we’re always looking for talented and caring professionals to grow with us. If you’re dedicated to exceptional customer service, skilled in massage therapy, and thrive in a positive, client-focused environment, we’d love to hear from you! Please send your CV to [jenny@massageeden.co.nz](mailto:jenny@massageeden.co.nz) and take the next step in your wellness career with Massage Eden.

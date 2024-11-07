@@ -24,6 +24,10 @@ URL = "https://g.page/MassageMeParnell"
 name = "Rotorua"
 URL = "https://goo.gl/maps/vPwYvMsriwtG58ZQ9"
 
+[[params.locations]]
+name = "Parking"
+URL = "/locations/parking/"
+
 [[menus.social]]
 name = "Facebook"
 URL = "https://www.facebook.com/MassageEdenNZ"
